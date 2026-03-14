@@ -1,7 +1,13 @@
 import os
 
-os.system("git add .")
-os.system('git commit -m "Atualizando playlist automaticamente"')
-os.system("git push")
+print("Atualizando repositório Git...")
 
-print("Git atualizado")
+os.system("git add -A")
+
+os.system('git commit -m "Atualização automática da playlist"')
+
+os.system("git branch -M main")
+
+os.system("git push -u origin main --force")
+
+print("Push concluído!")
