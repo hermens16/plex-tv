@@ -4,35 +4,6 @@ from collections import defaultdict
 entrada = "playlist_traduzida.m3u"
 saida = "playlist_final.m3u"
 
-mapa = {
-
-"CLÁSSICOS":"FILMES",
-"FILMES":"FILMES",
-"FICÇÃO & AÇÃO":"FILMES",
-"TERROR & SUSPENSE":"FILMES",
-
-"DRAMA":"SÉRIES",
-"SÉRIES":"SÉRIES",
-
-"NATUREZA & VIAGEM":"DOCUMENTÁRIOS",
-"HISTÓRIA & CIÊNCIA":"DOCUMENTÁRIOS",
-"CRIME REAL":"DOCUMENTÁRIOS",
-
-"ESTILO DE VIDA":"VARIEDADES",
-"CULINÁRIA & CASA":"VARIEDADES",
-"PROGRAMAS DIURNOS":"VARIEDADES",
-"REALITY":"VARIEDADES",
-
-"INFANTIL":"INFANTIL",
-"ANIME":"ANIME",
-
-"MÚSICA":"MÚSICA",
-"NOTÍCIAS":"NOTÍCIAS",
-"ESPORTES":"ESPORTES",
-"INTERNACIONAL":"INTERNACIONAL"
-
-}
-
 grupos = defaultdict(list)
 
 with open(entrada, "r", encoding="utf-8") as f:
@@ -45,29 +16,68 @@ for i, linha in enumerate(linhas):
         match = re.search(r'group-title="([^"]+)"', linha)
 
         if match:
+            grupo = match.group(1).upper()
+        else:
+            grupo = "OUTROS"
 
-            grupo = match.group(1)
+        # classificação automática
 
-            if grupo in mapa:
-                novo_grupo = mapa[grupo]
-            else:
-                novo_grupo = grupo   # mantém grupo original
+        if "SPORT" in grupo:
+            grupo = "ESPORTES"
 
-            linha = re.sub(r'group-title="[^"]+"', f'group-title="{novo_grupo}"', linha)
+        elif "NEWS" in grupo:
+            grupo = "NOTÍCIAS"
 
-            stream = linhas[i+1]
+        elif "MOVIE" in grupo or "FILM" in grupo:
+            grupo = "FILMES"
 
-            grupos[novo_grupo].append((linha, stream))
+        elif "SERIES" in grupo or "DRAMA" in grupo:
+            grupo = "SÉRIES"
+
+        elif "KIDS" in grupo or "FAMILY" in grupo:
+            grupo = "INFANTIL"
+
+        elif "MUSIC" in grupo:
+            grupo = "MÚSICA"
+
+        elif "DOC" in grupo or "HISTORY" in grupo or "SCIENCE" in grupo:
+            grupo = "DOCUMENTÁRIOS"
+
+        elif "ANIME" in grupo:
+            grupo = "ANIME"
+
+        elif "LIFESTYLE" in grupo or "REALITY" in grupo:
+            grupo = "VARIEDADES"
+
+        stream = linhas[i+1]
+
+        grupos[grupo].append((linha, stream))
 
 with open(saida, "w", encoding="utf-8") as f:
 
     f.write("#EXTM3U\n")
 
-    for grupo in sorted(grupos):
+    ordem = [
+        "FILMES",
+        "SÉRIES",
+        "DOCUMENTÁRIOS",
+        "VARIEDADES",
+        "INFANTIL",
+        "ANIME",
+        "ESPORTES",
+        "NOTÍCIAS",
+        "MÚSICA",
+        "INTERNACIONAL",
+        "OUTROS"
+    ]
 
-        for canal in grupos[grupo]:
+    for grupo in ordem:
 
-            f.write(canal[0])
-            f.write(canal[1])
+        if grupo in grupos:
 
-print("Playlist final criada com todos os canais")
+            for canal in grupos[grupo]:
+
+                f.write(canal[0])
+                f.write(canal[1])
+
+print("Playlist final criada.")
