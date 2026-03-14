@@ -35,30 +35,31 @@ mapa = {
 
 grupos = defaultdict(list)
 
-with open(entrada,"r",encoding="utf-8") as f:
+with open(entrada, "r", encoding="utf-8") as f:
     linhas = f.readlines()
 
-for i,linha in enumerate(linhas):
+for i, linha in enumerate(linhas):
 
     if linha.startswith("#EXTINF"):
 
-        match = re.search(r'group-title="([^"]+)"',linha)
+        match = re.search(r'group-title="([^"]+)"', linha)
 
         if match:
 
             grupo = match.group(1)
 
             if grupo in mapa:
-
                 novo_grupo = mapa[grupo]
+            else:
+                novo_grupo = grupo   # mantém grupo original
 
-                linha = linha.replace(grupo,novo_grupo)
+            linha = re.sub(r'group-title="[^"]+"', f'group-title="{novo_grupo}"', linha)
 
-                stream = linhas[i+1]
+            stream = linhas[i+1]
 
-                grupos[novo_grupo].append((linha,stream))
+            grupos[novo_grupo].append((linha, stream))
 
-with open(saida,"w",encoding="utf-8") as f:
+with open(saida, "w", encoding="utf-8") as f:
 
     f.write("#EXTM3U\n")
 
@@ -69,4 +70,4 @@ with open(saida,"w",encoding="utf-8") as f:
             f.write(canal[0])
             f.write(canal[1])
 
-print("Playlist final criada")
+print("Playlist final criada com todos os canais")
