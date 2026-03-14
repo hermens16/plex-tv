@@ -2,19 +2,19 @@ Set WshShell = CreateObject("WScript.Shell")
 
 WshShell.CurrentDirectory = "C:\Users\User\Dev\plex-tv"
 
-' inicia servidor
-WshShell.Run "cmd /c start py pywsgi.py", 0, False
+' inicia servidor oculto
+WshShell.Run "py pywsgi.py", 0, False
 
 ' espera servidor subir
 WScript.Sleep 15000
 
-' gerar playlists
+' gerar playlist
 WshShell.Run "py gerar_playlist.py", 0, True
 
 ' traduzir
 WshShell.Run "py traduzir_playlist.py", 0, True
 
-' organizar
+' organizar grupos
 WshShell.Run "py organizar_grupos.py", 0, True
 
 ' push git
