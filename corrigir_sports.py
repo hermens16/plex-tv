@@ -12,18 +12,26 @@ for linha in linhas:
 
     if linha.startswith("#EXTINF"):
 
-        # remove qualquer group-title existente
-        linha = re.sub(r'group-title="[^"]*"', '', linha)
+        # separa metadados do nome do canal
+        partes = linha.split(",", 1)
 
-        # adiciona ESPORTES
-        linha = linha.replace(
-            "#EXTINF:-1",
-            '#EXTINF:-1 group-title="ESPORTES"'
-        )
+        metadados = partes[0]
+        nome = partes[1]
+
+        # remove qualquer group-title existente
+        metadados = re.sub(r'group-title="[^"]*"', '', metadados)
+
+        # limpa espaços duplicados
+        metadados = re.sub(r'\s+', ' ', metadados).strip()
+
+        # adiciona group-title no final
+        metadados = metadados + ' group-title="ESPORTES"'
+
+        linha = metadados + "," + nome
 
     saida_linhas.append(linha)
 
 with open(saida, "w", encoding="utf-8") as f:
     f.writelines(saida_linhas)
 
-print("Todos os canais da FreeliveSports agora são ESPORTES.")
+print("FreeliveSports corrigida com group-title no final.")
