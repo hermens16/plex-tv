@@ -1,83 +1,39 @@
-import re
-from collections import defaultdict
-
-entrada = "playlist_traduzida.m3u"
+entrada = "playlist.m3u"
 saida = "playlist_final.m3u"
 
-grupos = defaultdict(list)
+grupos = {}
 
 with open(entrada, "r", encoding="utf-8") as f:
     linhas = f.readlines()
 
-for i, linha in enumerate(linhas):
+for i in range(len(linhas)):
+
+    linha = linhas[i]
 
     if linha.startswith("#EXTINF"):
 
-        match = re.search(r'group-title="([^"]+)"', linha)
+        grupo = "OUTROS"
 
-        if match:
-            grupo = match.group(1).upper()
-        else:
-            grupo = "OUTROS"
+        if 'group-title="' in linha:
+            grupo = linha.split('group-title="')[1].split('"')[0]
 
-        # classificação automática
+        canal = linha
+        url = linhas[i+1]
 
-        if "SPORT" in grupo:
-            grupo = "ESPORTES"
+        if grupo not in grupos:
+            grupos[grupo] = []
 
-        elif "NEWS" in grupo:
-            grupo = "NOTÍCIAS"
-
-        elif "MOVIE" in grupo or "FILM" in grupo:
-            grupo = "FILMES"
-
-        elif "SERIES" in grupo or "DRAMA" in grupo:
-            grupo = "SÉRIES"
-
-        elif "KIDS" in grupo or "FAMILY" in grupo:
-            grupo = "INFANTIL"
-
-        elif "MUSIC" in grupo:
-            grupo = "MÚSICA"
-
-        elif "DOC" in grupo or "HISTORY" in grupo or "SCIENCE" in grupo:
-            grupo = "DOCUMENTÁRIOS"
-
-        elif "ANIME" in grupo:
-            grupo = "ANIME"
-
-        elif "LIFESTYLE" in grupo or "REALITY" in grupo:
-            grupo = "VARIEDADES"
-
-        stream = linhas[i+1]
-
-        grupos[grupo].append((linha, stream))
+        grupos[grupo].append((canal, url))
 
 with open(saida, "w", encoding="utf-8") as f:
 
     f.write("#EXTM3U\n")
 
-    ordem = [
-        "FILMES",
-        "SÉRIES",
-        "DOCUMENTÁRIOS",
-        "VARIEDADES",
-        "INFANTIL",
-        "ANIME",
-        "ESPORTES",
-        "NOTÍCIAS",
-        "MÚSICA",
-        "INTERNACIONAL",
-        "OUTROS"
-    ]
+    for grupo in sorted(grupos):
 
-    for grupo in ordem:
+        for canal, url in grupos[grupo]:
 
-        if grupo in grupos:
+            f.write(canal)
+            f.write(url)
 
-            for canal in grupos[grupo]:
-
-                f.write(canal[0])
-                f.write(canal[1])
-
-print("Playlist final criada.")
+print("Playlist organizada.")
