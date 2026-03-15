@@ -1,4 +1,6 @@
+)
 import re
+from collections import defaultdict
 
 entrada = "playlist.m3u"
 saida = "playlist_final.m3u"
@@ -24,8 +26,8 @@ mapa_grupos = {
     "REALITY": "VARIEDADES",
     "FOOD & HOME": "VARIEDADES",
     "DAYTIME TV": "VARIEDADES",
-
     "COMEDY": "VARIEDADES",
+
     "CHILLS & THRILLS": "FILMES",
 
     "NEWS": "NOTÍCIAS",
@@ -43,8 +45,6 @@ mapa_grupos = {
 }
 
 ordem_grupos = [
-
-"TV ABERTA",
 "ESPORTES",
 "FILMES",
 "SÉRIES",
@@ -54,14 +54,12 @@ ordem_grupos = [
 "MÚSICA",
 "NOTÍCIAS",
 "VARIEDADES"
-
 ]
 
 with open(entrada, "r", encoding="utf-8") as f:
     linhas = f.readlines()
 
-grupos = {}
-
+grupos = defaultdict(list)
 grupo_atual = None
 
 for linha in linhas:
@@ -73,9 +71,7 @@ for linha in linhas:
         grupo = "VARIEDADES"
 
         if 'group-title="' in linha:
-
             grupo_original = linha.split('group-title="')[1].split('"')[0].upper()
-
             grupo = mapa_grupos.get(grupo_original, grupo_original)
 
         linha = re.sub(r'group-title="[^"]*"', '', linha)
@@ -86,9 +82,6 @@ for linha in linhas:
         nova_linha = f'{metadados} group-title="{grupo}",{nome}\n'
 
         grupo_atual = grupo
-
-        if grupo_atual not in grupos:
-            grupos[grupo_atual] = []
 
         grupos[grupo_atual].append(nova_linha)
 
@@ -104,13 +97,6 @@ with open(saida, "w", encoding="utf-8") as f:
     for grupo in ordem_grupos:
 
         if grupo in grupos:
-
-            for linha in grupos[grupo]:
-                f.write(linha)
-
-    for grupo in grupos:
-
-        if grupo not in ordem_grupos:
 
             for linha in grupos[grupo]:
                 f.write(linha)
