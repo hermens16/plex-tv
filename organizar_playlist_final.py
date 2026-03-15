@@ -1,4 +1,3 @@
-
 import re
 
 entrada = "playlist.m3u"
@@ -36,20 +35,36 @@ mapa_grupos = {
     "SPORTS": "ESPORTES",
     "ESPORTES": "ESPORTES",
 
-    "ANIME+": "ANIME",
+    "ANIME+": "ANIME & TOKUSATSU",
+    "ANIME": "ANIME & TOKUSATSU",
 
-    "INTERNATIONAL": "INTERNACIONAL",
-    "EN ESPAÑOL": "INTERNACIONAL",
+    "INTERNATIONAL": "VARIEDADES",
+    "EN ESPAÑOL": "VARIEDADES",
 }
+
+ordem_grupos = [
+
+"TV ABERTA",
+"ESPORTES",
+"FILMES",
+"SÉRIES",
+"DOCUMENTÁRIOS",
+"ANIME & TOKUSATSU",
+"INFANTIL",
+"MÚSICA",
+"NOTÍCIAS",
+"VARIEDADES"
+
+]
 
 with open(entrada, "r", encoding="utf-8") as f:
     linhas = f.readlines()
 
-saida_linhas = []
+grupos = {}
 
-for i in range(len(linhas)):
+grupo_atual = None
 
-    linha = linhas[i]
+for linha in linhas:
 
     if linha.startswith("#EXTINF"):
 
@@ -58,7 +73,9 @@ for i in range(len(linhas)):
         grupo = "VARIEDADES"
 
         if 'group-title="' in linha:
+
             grupo_original = linha.split('group-title="')[1].split('"')[0].upper()
+
             grupo = mapa_grupos.get(grupo_original, grupo_original)
 
         linha = re.sub(r'group-title="[^"]*"', '', linha)
@@ -68,16 +85,34 @@ for i in range(len(linhas)):
 
         nova_linha = f'{metadados} group-title="{grupo}",{nome}\n'
 
-        saida_linhas.append(nova_linha)
+        grupo_atual = grupo
+
+        if grupo_atual not in grupos:
+            grupos[grupo_atual] = []
+
+        grupos[grupo_atual].append(nova_linha)
 
     elif linha.startswith("http"):
-        saida_linhas.append(linha)
+
+        if grupo_atual:
+            grupos[grupo_atual].append(linha)
 
 with open(saida, "w", encoding="utf-8") as f:
 
     f.write("#EXTM3U\n")
 
-    for l in saida_linhas:
-        f.write(l)
+    for grupo in ordem_grupos:
+
+        if grupo in grupos:
+
+            for linha in grupos[grupo]:
+                f.write(linha)
+
+    for grupo in grupos:
+
+        if grupo not in ordem_grupos:
+
+            for linha in grupos[grupo]:
+                f.write(linha)
 
 print("Playlist organizada com sucesso.")
