@@ -1,6 +1,5 @@
-)
+
 import re
-from collections import defaultdict
 
 entrada = "playlist.m3u"
 saida = "playlist_final.m3u"
@@ -26,8 +25,8 @@ mapa_grupos = {
     "REALITY": "VARIEDADES",
     "FOOD & HOME": "VARIEDADES",
     "DAYTIME TV": "VARIEDADES",
-    "COMEDY": "VARIEDADES",
 
+    "COMEDY": "VARIEDADES",
     "CHILLS & THRILLS": "FILMES",
 
     "NEWS": "NOTÍCIAS",
@@ -38,7 +37,6 @@ mapa_grupos = {
     "ESPORTES": "ESPORTES",
 
     "ANIME+": "ANIME & TOKUSATSU",
-    "ANIME": "ANIME & TOKUSATSU",
 
     "INTERNATIONAL": "VARIEDADES",
     "EN ESPAÑOL": "VARIEDADES",
@@ -59,7 +57,7 @@ ordem_grupos = [
 with open(entrada, "r", encoding="utf-8") as f:
     linhas = f.readlines()
 
-grupos = defaultdict(list)
+grupos = {}
 grupo_atual = None
 
 for linha in linhas:
@@ -83,7 +81,10 @@ for linha in linhas:
 
         grupo_atual = grupo
 
-        grupos[grupo_atual].append(nova_linha)
+        if grupo not in grupos:
+            grupos[grupo] = []
+
+        grupos[grupo].append(nova_linha)
 
     elif linha.startswith("http"):
 
@@ -94,6 +95,7 @@ with open(saida, "w", encoding="utf-8") as f:
 
     f.write("#EXTM3U\n")
 
+    # escreve grupos na ordem definida
     for grupo in ordem_grupos:
 
         if grupo in grupos:
