@@ -1,3 +1,4 @@
+
 import re
 
 entrada = "playlist.m3u"
@@ -5,50 +6,40 @@ saida = "playlist_final.m3u"
 
 mapa_grupos = {
 
-    # filmes e séries
     "MOVIES": "FILMES",
     "CLASSICS": "FILMES",
     "SCI-FI & ACTION": "FILMES",
+
     "DRAMA TV": "SÉRIES",
     "SERIES": "SÉRIES",
     "HIT TV": "SÉRIES",
 
-    # documentários
     "HISTORY & SCIENCE": "DOCUMENTÁRIOS",
     "NATURE & TRAVEL": "DOCUMENTÁRIOS",
     "TRUE CRIME": "DOCUMENTÁRIOS",
 
-    # infantil
     "KIDS & FAMILY": "INFANTIL",
     "KIDS": "INFANTIL",
 
-    # variedades
     "LIFESTYLE": "VARIEDADES",
     "REALITY": "VARIEDADES",
     "FOOD & HOME": "VARIEDADES",
     "DAYTIME TV": "VARIEDADES",
 
-    # entretenimento
     "COMEDY": "VARIEDADES",
     "CHILLS & THRILLS": "FILMES",
 
-    # notícias
     "NEWS": "NOTÍCIAS",
 
-    # música
     "MUSIC": "MÚSICA",
 
-    # esportes
     "SPORTS": "ESPORTES",
     "ESPORTES": "ESPORTES",
 
-    # anime
     "ANIME+": "ANIME",
 
-    # internacional
     "INTERNATIONAL": "INTERNACIONAL",
     "EN ESPAÑOL": "INTERNACIONAL",
-}
 }
 
 with open(entrada, "r", encoding="utf-8") as f:
@@ -68,14 +59,11 @@ for i in range(len(linhas)):
 
         if 'group-title="' in linha:
             grupo_original = linha.split('group-title="')[1].split('"')[0].upper()
-
             grupo = mapa_grupos.get(grupo_original, grupo_original)
 
-        # remove grupo antigo
         linha = re.sub(r'group-title="[^"]*"', '', linha)
 
         metadados = linha.split(",")[0]
-
         metadados = re.sub(r"\s+", " ", metadados).strip()
 
         nova_linha = f'{metadados} group-title="{grupo}",{nome}\n'
