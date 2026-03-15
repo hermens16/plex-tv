@@ -58,9 +58,15 @@ with open(entrada, "r", encoding="utf-8") as f:
     linhas = f.readlines()
 
 grupos = {}
-grupo_atual = None
+for g in ordem_grupos:
+    grupos[g] = []
 
-for linha in linhas:
+grupo_atual = "VARIEDADES"
+
+i = 0
+while i < len(linhas):
+
+    linha = linhas[i]
 
     if linha.startswith("#EXTINF"):
 
@@ -77,25 +83,25 @@ for linha in linhas:
         metadados = linha.split(",")[0]
         metadados = re.sub(r"\s+", " ", metadados).strip()
 
-        nova_linha = f'{metadados} group-title="{grupo}",{nome}\n'
+        nova_extinf = f'{metadados} group-title="{grupo}",{nome}\n'
 
-        grupo_atual = grupo
+        url = linhas[i+1]
 
         if grupo not in grupos:
             grupos[grupo] = []
 
-        grupos[grupo].append(nova_linha)
+        grupos[grupo].append(nova_extinf)
+        grupos[grupo].append(url)
 
-    elif linha.startswith("http"):
+        i += 2
+        continue
 
-        if grupo_atual:
-            grupos[grupo_atual].append(linha)
+    i += 1
 
 with open(saida, "w", encoding="utf-8") as f:
 
     f.write("#EXTM3U\n")
 
-    # escreve grupos na ordem definida
     for grupo in ordem_grupos:
 
         if grupo in grupos:
