@@ -5,28 +5,50 @@ saida = "playlist_final.m3u"
 
 mapa_grupos = {
 
+    # filmes e séries
     "MOVIES": "FILMES",
+    "CLASSICS": "FILMES",
+    "SCI-FI & ACTION": "FILMES",
     "DRAMA TV": "SÉRIES",
     "SERIES": "SÉRIES",
+    "HIT TV": "SÉRIES",
 
+    # documentários
     "HISTORY & SCIENCE": "DOCUMENTÁRIOS",
     "NATURE & TRAVEL": "DOCUMENTÁRIOS",
-    "DOCUMENTARY": "DOCUMENTÁRIOS",
+    "TRUE CRIME": "DOCUMENTÁRIOS",
 
+    # infantil
     "KIDS & FAMILY": "INFANTIL",
     "KIDS": "INFANTIL",
 
+    # variedades
     "LIFESTYLE": "VARIEDADES",
     "REALITY": "VARIEDADES",
+    "FOOD & HOME": "VARIEDADES",
+    "DAYTIME TV": "VARIEDADES",
 
+    # entretenimento
+    "COMEDY": "VARIEDADES",
+    "CHILLS & THRILLS": "FILMES",
+
+    # notícias
     "NEWS": "NOTÍCIAS",
 
+    # música
     "MUSIC": "MÚSICA",
 
+    # esportes
     "SPORTS": "ESPORTES",
     "ESPORTES": "ESPORTES",
 
+    # anime
     "ANIME+": "ANIME",
+
+    # internacional
+    "INTERNATIONAL": "INTERNACIONAL",
+    "EN ESPAÑOL": "INTERNACIONAL",
+}
 }
 
 with open(entrada, "r", encoding="utf-8") as f:
