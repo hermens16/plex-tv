@@ -356,7 +356,7 @@
             "call_sign": null,
             "slug": "euronews-portuguese",
             "name": "Euronews Portuguese",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/76a8ddca-38be-4d5b-b8db-be69fcaa6231/Plex-WURL_Euronews-Logos_PT_-_astrid_collomb.png",
             "id": "646546f35db8ada4c8edd7e5-6245cd154f27f4e9c76d67e9",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6245cd154f27f4e9c76d67e9.m3u8",
             "gridKey": "6245cd154f27f4e9c76d67e9",
@@ -428,7 +428,7 @@
             "call_sign": null,
             "slug": "euronews",
             "name": "Euronews",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",
             "id": "646546f35db8ada4c8edd7e5-60089d90f682a3002c348299",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60089d90f682a3002c348299.m3u8",
             "gridKey": "60089d90f682a3002c348299",
@@ -493,7 +493,7 @@
             "call_sign": null,
             "slug": "euronews-espanol",
             "name": "Euronews Espa\u00f1ol",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/f7dacd88-7f26-40a6-960e-a597d8b560c5/ESLogo_Euronews_stacked_white_on_spanish_1500x1000wht.png",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/eea28bcc-26ea-4266-81b4-2945f334c3d9/Plex-WURL_Euronews-Logos_ES_-_astrid_collomb.png",
             "id": "646546f35db8ada4c8edd7e5-60089d97f682a3002c34829d",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60089d97f682a3002c34829d.m3u8",
             "gridKey": "60089d97f682a3002c34829d",
@@ -505,7 +505,7 @@
             "call_sign": null,
             "slug": "euronews-francais",
             "name": "Euronews Fran\u00e7ais",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png",
             "id": "646546f35db8ada4c8edd7e5-6245f06793b402a3d1097787",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6245f06793b402a3d1097787.m3u8",
             "gridKey": "6245f06793b402a3d1097787",
@@ -517,7 +517,7 @@
             "call_sign": null,
             "slug": "euronews-italiano",
             "name": "Euronews Italiano",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",
             "id": "646546f35db8ada4c8edd7e5-6245f13093b402a3d1097789",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6245f13093b402a3d1097789.m3u8",
             "gridKey": "6245f13093b402a3d1097789",
@@ -529,7 +529,7 @@
             "call_sign": null,
             "slug": "euronews-deutsch",
             "name": "Euronews Deutsch",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/2fe3efc9-5aef-40f7-be0e-46ff4b9ae94d/DELogo_Euronews_stacked_REallyWHite_on_german_RGB-01rdx.png",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/f4d271ea-6f09-46e0-910c-c052a63c3287/Plex-WURL_Euronews-Logos_DE_-_astrid_collomb.png",
             "id": "646546f35db8ada4c8edd7e5-6245efe9f137de43897ea1ae",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6245efe9f137de43897ea1ae.m3u8",
             "gridKey": "6245efe9f137de43897ea1ae",
@@ -2373,6 +2373,18 @@
                 "Kids & Family"
             ]
         },
+        "69a516217c245b3390e8a4d2": {
+            "call_sign": null,
+            "slug": "delito",
+            "name": "Delito",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png",
+            "id": "646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2.m3u8",
+            "gridKey": "69a516217c245b3390e8a4d2",
+            "group": [
+                "En Espa\u00f1ol"
+            ]
+        },
         "621674f168c966be92737ce6": {
             "call_sign": null,
             "slug": "el-conflicto-tv-2",
@@ -2766,18 +2778,6 @@
             "id": "646546f35db8ada4c8edd7e5-685f195f6c220c4e9e333a04",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-685f195f6c220c4e9e333a04.m3u8",
             "gridKey": "685f195f6c220c4e9e333a04",
-            "group": [
-                "En Espa\u00f1ol"
-            ]
-        },
-        "69a516217c245b3390e8a4d2": {
-            "call_sign": null,
-            "slug": "delito",
-            "name": "Delito",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png",
-            "id": "646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2.m3u8",
-            "gridKey": "69a516217c245b3390e8a4d2",
             "group": [
                 "En Espa\u00f1ol"
             ]
