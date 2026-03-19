@@ -624,6 +624,18 @@
                 "Sports"
             ]
         },
+        "69b47ba0573588ae1fb57f3f": {
+            "call_sign": null,
+            "slug": "sft-combat",
+            "name": "SFT Combat",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/1ca76ac0-6340-4214-ab3a-6c863e6a5514/1500x1000_light.png",
+            "id": "646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f.m3u8",
+            "gridKey": "69b47ba0573588ae1fb57f3f",
+            "group": [
+                "Sports"
+            ]
+        },
         "60afc726623f2f002c5bb49f": {
             "call_sign": null,
             "slug": "poker-night-tv",
@@ -1638,6 +1650,18 @@
             "id": "646546f35db8ada4c8edd7e5-62fbf52c1567211fdb82e922",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-62fbf52c1567211fdb82e922.m3u8",
             "gridKey": "62fbf52c1567211fdb82e922",
+            "group": [
+                "Nature & Travel"
+            ]
+        },
+        "69a524507c245b3390e8a4dc": {
+            "call_sign": null,
+            "slug": "nature-moments",
+            "name": "Nature Moments",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/329d0ebe-0fba-4165-b92a-2bf8dfe3d722/Nature_moments_WHT.png",
+            "id": "646546f35db8ada4c8edd7e5-69a524507c245b3390e8a4dc",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69a524507c245b3390e8a4dc.m3u8",
+            "gridKey": "69a524507c245b3390e8a4dc",
             "group": [
                 "Nature & Travel"
             ]
