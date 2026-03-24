@@ -586,6 +586,18 @@
                 "Sports"
             ]
         },
+        "69b47ba0573588ae1fb57f3f": {
+            "call_sign": null,
+            "slug": "sft-combat",
+            "name": "SFT Combat",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/1ca76ac0-6340-4214-ab3a-6c863e6a5514/1500x1000_light.png",
+            "id": "646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f.m3u8",
+            "gridKey": "69b47ba0573588ae1fb57f3f",
+            "group": [
+                "Sports"
+            ]
+        },
         "606605549dbfca002d2ae873": {
             "call_sign": "IMPACTW",
             "slug": "tna-wrestling-channel",
@@ -620,18 +632,6 @@
             "id": "646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710.m3u8",
             "gridKey": "60da3a5c0d1cc1002c383710",
-            "group": [
-                "Sports"
-            ]
-        },
-        "69b47ba0573588ae1fb57f3f": {
-            "call_sign": null,
-            "slug": "sft-combat",
-            "name": "SFT Combat",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/1ca76ac0-6340-4214-ab3a-6c863e6a5514/1500x1000_light.png",
-            "id": "646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f.m3u8",
-            "gridKey": "69b47ba0573588ae1fb57f3f",
             "group": [
                 "Sports"
             ]
@@ -2190,6 +2190,18 @@
                 "Lifestyle"
             ]
         },
+        "675a401b67838c2b166105d8": {
+            "call_sign": null,
+            "slug": "toon-goggles-3",
+            "name": "Toon Goggles",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/80e8d62c-25d0-44c7-a51c-89891e59fe9a/toongoggles_logo_light_1500x1000.png",
+            "id": "646546f35db8ada4c8edd7e5-675a401b67838c2b166105d8",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-675a401b67838c2b166105d8.m3u8",
+            "gridKey": "675a401b67838c2b166105d8",
+            "group": [
+                "Kids & Family"
+            ]
+        },
         "62ba4aaff663580a7238f327": {
             "call_sign": null,
             "slug": "sonic-tv",
@@ -2235,18 +2247,6 @@
             "id": "646546f35db8ada4c8edd7e5-63d6f6c5a9e88ee909e7ee1f",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-63d6f6c5a9e88ee909e7ee1f.m3u8",
             "gridKey": "63d6f6c5a9e88ee909e7ee1f",
-            "group": [
-                "Kids & Family"
-            ]
-        },
-        "675a401b67838c2b166105d8": {
-            "call_sign": null,
-            "slug": "toon-goggles-3",
-            "name": "Toon Goggles",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/80e8d62c-25d0-44c7-a51c-89891e59fe9a/toongoggles_logo_light_1500x1000.png",
-            "id": "646546f35db8ada4c8edd7e5-675a401b67838c2b166105d8",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-675a401b67838c2b166105d8.m3u8",
-            "gridKey": "675a401b67838c2b166105d8",
             "group": [
                 "Kids & Family"
             ]
