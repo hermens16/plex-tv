@@ -384,3 +384,6 @@ https://amg26268-amg26268c20-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playli
 #EXTINF:-1 channel-id="freelivesports-69c09acff33f2bb295ae7d7d" tvg-id="69c09acff33f2bb295ae7d7d" tvg-chno="1010" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/016763e9-54f0-43c9-9dde-bd25be33dcb4",Eurovision Sport
 https://amg01763-amg01763c2-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01763-amg01763c2-amgplt0201/playlist.m3u8
 
+#EXTINF:-1 channel-id="freelivesports-69c3106e68803d95a7d034d9" tvg-id="69c3106e68803d95a7d034d9" tvg-chno="1011" group-title="Boxing;MMA;Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ba85c0f-6f2c-471e-a144-ce9c3578c164",ProBox TV
+https://bbb-pbtv-freelivesports.otteravision.com/bbb/pbtv/pbtv.m3u8
+
