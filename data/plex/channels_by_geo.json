@@ -1780,18 +1780,6 @@
                 "Nature & Travel"
             ]
         },
-        "686459791a2f321847ec038f": {
-            "call_sign": null,
-            "slug": "assombracoes",
-            "name": "Assombra\u00e7\u00f5es",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/beb4823c-c813-4e1d-9c13-4da0069168f0/Assombrac__o__es_whiteRDX.png",
-            "id": "646546f35db8ada4c8edd7e5-686459791a2f321847ec038f",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-686459791a2f321847ec038f.m3u8",
-            "gridKey": "686459791a2f321847ec038f",
-            "group": [
-                "History & Science"
-            ]
-        },
         "656fb850cb7e8e6a9bc3f36e": {
             "call_sign": null,
             "slug": "popular-science",
