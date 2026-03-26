@@ -1581,6 +1581,18 @@
                 "Daytime TV"
             ]
         },
+        "69bb1f002028859eafc637e1": {
+            "call_sign": null,
+            "slug": "legacy",
+            "name": "Legacy",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+            "id": "646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1.m3u8",
+            "gridKey": "69bb1f002028859eafc637e1",
+            "group": [
+                "Daytime TV"
+            ]
+        },
         "6582a1316b91be4547aa153c": {
             "call_sign": null,
             "slug": "hot-ones-2",
