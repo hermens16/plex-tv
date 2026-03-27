@@ -3,8 +3,8 @@
 #EXTINF:-1 channel-id="freelivesports-69a5dcb406ac1f0687559d69" tvg-id="69a5dcb406ac1f0687559d69" tvg-chno="1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6ea83179-1176-47a9-9222-fb18b0c2467a" group-title="ESPORTES",Tennis Channel T2
 https://amg01444-amg01444c2-freelivesports-emea-11541.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelfast-tennischannelus-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6721226853bb4ab784918230" tvg-id="6721226853bb4ab784918230" tvg-chno="2" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd3fc7e3-dfd0-4ac8-9527-235f90bee746" group-title="ESPORTES",Big 12 Network
-https://amg01258-amg01258c7-freelivesports-emea-5671.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-big12network-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-6675c105dfa6f735be514aea" tvg-id="6675c105dfa6f735be514aea" tvg-chno="2" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="ESPORTES",Billiard TV
+https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675bd20e1827c8af5d7a7c0" tvg-id="6675bd20e1827c8af5d7a7c0" tvg-chno="3" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc" group-title="ESPORTES",Sports Illustrated TV
 https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8
@@ -21,11 +21,11 @@ https://amg00721-amg00721c5-freelivesports-emea-9593.playouts.now.amagi.tv/ts-eu
 #EXTINF:-1 channel-id="freelivesports-6972a8e2e4de1b00c3cf2bb6" tvg-id="6972a8e2e4de1b00c3cf2bb6" tvg-chno="7" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7aa8dcbe-6345-4bce-ab74-83a4e197e99b" group-title="ESPORTES",NASCAR
 https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6902789463cbad62d1ce4a43" tvg-id="6902789463cbad62d1ce4a43" tvg-chno="8" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/82d206b8-354b-4f3b-b9be-c144bc2c7183" group-title="ESPORTES",MSG Sports Zone
-https://dcfe9c46.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsX01TR1Nwb3J0c1pvbmVfSExT/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-6675bc4b1de4405de4d48637" tvg-id="6675bc4b1de4405de4d48637" tvg-chno="8" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c2e21836-abc5-4e50-875a-4aefa365e7f7" group-title="ESPORTES",Stadium
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-stadium-sportstribal/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-69b1e7c6e2c5c4a81868dbce" tvg-id="69b1e7c6e2c5c4a81868dbce" tvg-chno="9" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6898e539-f71d-483b-9253-5d12a726f419" group-title="ESPORTES",Shooting Sports Life
-https://linear-1312.frequency.stream/dist/freelivesports/1312/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-690bd93eb99006859752b2ac" tvg-id="690bd93eb99006859752b2ac" tvg-chno="9" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bd76bda5-899f-4f9a-99a0-94739afddde2" group-title="ESPORTES",Bowling TV
+https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-677f1589443138b0e31f92d7" tvg-id="677f1589443138b0e31f92d7" tvg-chno="10" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/620d3c58-d579-4c82-8c51-9152804ced0e" group-title="ESPORTES",Red Bull TV
 https://b8bba85e8540473e97af52b05a3c9d9a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORB-US-EN-FAST-FREELIVESPORTS/644/freelivesports/hls/master/playlist.m3u8
@@ -33,32 +33,35 @@ https://b8bba85e8540473e97af52b05a3c9d9a.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 channel-id="freelivesports-666317fa213e560d3ddc5b56" tvg-id="666317fa213e560d3ddc5b56" tvg-chno="11" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/48abafb8-6279-4a2c-81f6-5c70275df794" group-title="ESPORTES",The Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-sportstribal/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-66fc2e0b6278931878517b89" tvg-id="66fc2e0b6278931878517b89" tvg-chno="12" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7ab915b8-b20c-4246-a3b2-80ac2d4ae44c" group-title="ESPORTES",Swerve Combat
+#EXTINF:-1 channel-id="freelivesports-66b0eb773955659157539350" tvg-id="66b0eb773955659157539350" tvg-chno="12" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/05964ce9-8c53-4c26-859f-24154a22f4e2" group-title="ESPORTES",SPEED SPORT 1
+https://b08b96aab13548d7a31454633b71231a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-599-SPEEDSPORT1-SPORTSTRIBALTV/mt/sportstribaltv/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-66fc2e0b6278931878517b89" tvg-id="66fc2e0b6278931878517b89" tvg-chno="13" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7ab915b8-b20c-4246-a3b2-80ac2d4ae44c" group-title="ESPORTES",Swerve Combat
 https://2be36a631c3043158c8ebfec4f421eb0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-253-SWERVESPORTS-SPORTSSTUDIO/mt/sportsstudio/253/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-67e2fb3e548ae02169c017c4" tvg-id="67e2fb3e548ae02169c017c4" tvg-chno="13" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/d16251f8-ff5b-4e36-be75-eb60aa43b0db" group-title="ESPORTES",Pac 12 Insider
+#EXTINF:-1 channel-id="freelivesports-67e2fb3e548ae02169c017c4" tvg-id="67e2fb3e548ae02169c017c4" tvg-chno="14" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/d16251f8-ff5b-4e36-be75-eb60aa43b0db" group-title="ESPORTES",Pac 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-695d764ad33a113e45a09c0c" tvg-id="695d764ad33a113e45a09c0c" tvg-chno="14" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d" group-title="ESPORTES",Waypoint TV
-https://amg00381-amg00381c1-freelivesports-emea-11030.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00381-waypointcommunicationsfast-waypoint-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-66fafe92ae9285e6ac7449d7" tvg-id="66fafe92ae9285e6ac7449d7" tvg-chno="15" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/679e1dc3-2d4b-4a06-ad87-9c9cbaf8a53b" group-title="ESPORTES",Willow Sports
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6675c105dfa6f735be514aea" tvg-id="6675c105dfa6f735be514aea" tvg-chno="16" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="ESPORTES",Billiard TV
-https://stream.ads.ottera.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-666318a8a2498f66a3603397" tvg-id="666318a8a2498f66a3603397" tvg-chno="17" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50" group-title="ESPORTES",NHRA
-https://stream.ads.ottera.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-6675bc0089524b38dbf58292" tvg-id="6675bc0089524b38dbf58292" tvg-chno="18" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add" group-title="ESPORTES",MTRSPT1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-66b0ebb38011e1206fab2931" tvg-id="66b0ebb38011e1206fab2931" tvg-chno="19" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2" group-title="ESPORTES",FloRacing
+#EXTINF:-1 channel-id="freelivesports-66b0ebb38011e1206fab2931" tvg-id="66b0ebb38011e1206fab2931" tvg-chno="16" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2" group-title="ESPORTES",FloRacing
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6943e7dc182a4a3d2bcd3c10" tvg-id="6943e7dc182a4a3d2bcd3c10" tvg-chno="20" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018" group-title="ESPORTES",Top Barca
-https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-68a3913636cf1d83afe35072" tvg-id="68a3913636cf1d83afe35072" tvg-chno="17" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f" group-title="ESPORTES",eClutch Access
+https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-66b0eb773955659157539350" tvg-id="66b0eb773955659157539350" tvg-chno="21" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/05964ce9-8c53-4c26-859f-24154a22f4e2" group-title="ESPORTES",SPEED SPORT 1
-https://b08b96aab13548d7a31454633b71231a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-599-SPEEDSPORT1-SPORTSTRIBALTV/mt/sportstribaltv/599/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-6675bb562916d97ce3c66d67" tvg-id="6675bb562916d97ce3c66d67" tvg-chno="18" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="ESPORTES",TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-666318a8a2498f66a3603397" tvg-id="666318a8a2498f66a3603397" tvg-chno="19" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50" group-title="ESPORTES",NHRA
+https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-6675bc0089524b38dbf58292" tvg-id="6675bc0089524b38dbf58292" tvg-chno="20" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add" group-title="ESPORTES",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-6943e7dc182a4a3d2bcd3c10" tvg-id="6943e7dc182a4a3d2bcd3c10" tvg-chno="21" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018" group-title="ESPORTES",Top Barca
+https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-68a3a2dc90e4094f6286e55a" tvg-id="68a3a2dc90e4094f6286e55a" tvg-chno="22" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58" group-title="ESPORTES",Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
@@ -72,8 +75,14 @@ https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 channel-id="freelivesports-682b8d834b0bb44bd5b74958" tvg-id="682b8d834b0bb44bd5b74958" tvg-chno="25" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6d6eaa59-99a7-434f-b2e3-65c65afb4805" group-title="ESPORTES",Absinthe TV
 https://amg26268-amg26268c5-freelivesports-emea-8263.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssabsynthetv-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6675bc4b1de4405de4d48637" tvg-id="6675bc4b1de4405de4d48637" tvg-chno="100" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c2e21836-abc5-4e50-875a-4aefa365e7f7" group-title="ESPORTES",Stadium
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-stadium-sportstribal/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-6721226853bb4ab784918230" tvg-id="6721226853bb4ab784918230" tvg-chno="26" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd3fc7e3-dfd0-4ac8-9527-235f90bee746" group-title="ESPORTES",Big 12 Network
+https://amg01258-amg01258c7-freelivesports-emea-5671.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-big12network-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-6675bcdd2916d97ce3c66e5b" tvg-id="6675bcdd2916d97ce3c66e5b" tvg-chno="27" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3d30b61d-216f-4639-8b45-270b09911dc6" group-title="ESPORTES",Wired2Fish
+https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-670d36c9e90d6630c6c07f23" tvg-id="670d36c9e90d6630c6c07f23" tvg-chno="28" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9944852d-59d1-4cac-a2d2-d65d21d61f42" group-title="ESPORTES",United Fight Alliance
+https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_UnitedFightAlliance/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-67917b45c37657dcd496e320" tvg-id="67917b45c37657dcd496e320" tvg-chno="102" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/48dc586f-e4c2-49c4-9cee-f1ebc1773aae" group-title="ESPORTES",beIN Sports Xtra en Espanol
 https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8
@@ -159,17 +168,11 @@ https://d39azd0vpxfn6x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 channel-id="freelivesports-6675c08cd0ea16d1c73ad39d" tvg-id="6675c08cd0ea16d1c73ad39d" tvg-chno="194" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/90b172cb-3adf-4fcc-8c1d-31720aafff29" group-title="ESPORTES",WPT Spain
 https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6675bb562916d97ce3c66d67" tvg-id="6675bb562916d97ce3c66d67" tvg-chno="211" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="ESPORTES",TNA Wrestling Channel
-https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
-
 #EXTINF:-1 channel-id="freelivesports-67db1b3d8415591e5e093ef7" tvg-id="67db1b3d8415591e5e093ef7" tvg-chno="212" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90" group-title="ESPORTES",Lucha Plus
 https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675bcd1d8d389e6ed671402" tvg-id="6675bcd1d8d389e6ed671402" tvg-chno="213" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/0e0173e2-7dca-4b08-aa63-f0ea4c989405" group-title="ESPORTES",GLORY Kickboxing
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-670d36c9e90d6630c6c07f23" tvg-id="670d36c9e90d6630c6c07f23" tvg-chno="215" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9944852d-59d1-4cac-a2d2-d65d21d61f42" group-title="ESPORTES",United Fight Alliance
-https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_UnitedFightAlliance/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675bbf37f512eb266c46c82" tvg-id="6675bbf37f512eb266c46c82" tvg-chno="217" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7" group-title="ESPORTES",FIGHT NETWORK
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
@@ -225,6 +228,9 @@ https://onestudio.telos.indicue.com/stream.m3u8
 #EXTINF:-1 channel-id="freelivesports-6838de3d25ff401b8d967f30" tvg-id="6838de3d25ff401b8d967f30" tvg-chno="252" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1ed754a5-dea8-40ae-ac65-a019d34c3cfe" group-title="ESPORTES",Swerve Women's Sports
 https://linear-1013.frequency.stream/dist/freelivesports/1013/hls/master/playlist.m3u8
 
+#EXTINF:-1 channel-id="freelivesports-6902789463cbad62d1ce4a43" tvg-id="6902789463cbad62d1ce4a43" tvg-chno="257" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/82d206b8-354b-4f3b-b9be-c144bc2c7183" group-title="ESPORTES",MSG Sports Zone
+https://dcfe9c46.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsX01TR1Nwb3J0c1pvbmVfSExT/playlist.m3u8
+
 #EXTINF:-1 channel-id="freelivesports-69658066975ee235f015da2b" tvg-id="69658066975ee235f015da2b" tvg-chno="258" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/e23d456b-edc1-44c6-a4e0-b90fe7bf967e" group-title="ESPORTES",Overtime
 https://c9fa922c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsX092ZXJ0aW1lLTFfSExT/playlist_hd.m3u8
 
@@ -233,12 +239,6 @@ https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-67f41e06811b7e0fb25171d1" tvg-id="67f41e06811b7e0fb25171d1" tvg-chno="260" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="ESPORTES",Harlem Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-67b79781eab92d6624ee0a33" tvg-id="67b79781eab92d6624ee0a33" tvg-chno="261" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51" group-title="ESPORTES",European Football League
-https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-66fafe92ae9285e6ac7449d7" tvg-id="66fafe92ae9285e6ac7449d7" tvg-chno="262" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/679e1dc3-2d4b-4a06-ad87-9c9cbaf8a53b" group-title="ESPORTES",Willow Sports
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-67d9e85646fbdd154c733552" tvg-id="67d9e85646fbdd154c733552" tvg-chno="263" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba" group-title="ESPORTES",Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
@@ -270,9 +270,6 @@ https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.ama
 #EXTINF:-1 channel-id="freelivesports-6675bf6cb464f958050c8dcc" tvg-id="6675bf6cb464f958050c8dcc" tvg-chno="282" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3a13474e-b983-41c1-9ef1-0e11524eee06" group-title="ESPORTES",Kozoom
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-690bd93eb99006859752b2ac" tvg-id="690bd93eb99006859752b2ac" tvg-chno="301" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bd76bda5-899f-4f9a-99a0-94739afddde2" group-title="ESPORTES",Bowling TV
-https://stream.ads.ottera.tv/playlist.m3u8
-
 #EXTINF:-1 channel-id="freelivesports-6791791920266258e85e39a1" tvg-id="6791791920266258e85e39a1" tvg-chno="302" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/370dab72-9c75-4150-9fd5-59c7e9ae187f" group-title="ESPORTES",World Chase Tag
 https://onestudio.telos.indicue.com/stream.m3u8
 
@@ -297,8 +294,8 @@ https://amg00436-amg00436c7-freelivesports-emea-8457.playouts.now.amagi.tv/playl
 #EXTINF:-1 channel-id="freelivesports-6707d8a0e8c26b78203b9deb" tvg-id="6707d8a0e8c26b78203b9deb" tvg-chno="340" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/99f2af41-2267-4471-8e50-e5277cd3e4cf" group-title="ESPORTES",Field & Stream
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6675bcdd2916d97ce3c66e5b" tvg-id="6675bcdd2916d97ce3c66e5b" tvg-chno="341" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3d30b61d-216f-4639-8b45-270b09911dc6" group-title="ESPORTES",Wired2Fish
-https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-695d764ad33a113e45a09c0c" tvg-id="695d764ad33a113e45a09c0c" tvg-chno="342" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d" group-title="ESPORTES",Waypoint TV
+https://amg00381-amg00381c1-freelivesports-emea-11030.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00381-waypointcommunicationsfast-waypoint-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675c1ce0485604f67e34409" tvg-id="6675c1ce0485604f67e34409" tvg-chno="344" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="ESPORTES",Hunt Fish TV
 https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
@@ -348,11 +345,11 @@ https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="freelivesports-68114951dc7bfd176ab1044f" tvg-id="68114951dc7bfd176ab1044f" tvg-chno="371" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba4bf3ca-a9ec-47dd-a089-5c68e7bb4d54" group-title="ESPORTES",GINX TV
 https://amg26268-amg26268c15-freelivesports-emea-10880.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssginx-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-68a3913636cf1d83afe35072" tvg-id="68a3913636cf1d83afe35072" tvg-chno="372" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f" group-title="ESPORTES",eClutch Access
-https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-672a67138e0fe64b11195701" tvg-id="672a67138e0fe64b11195701" tvg-chno="373" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c" group-title="ESPORTES",Escape TV
+#EXTINF:-1 channel-id="freelivesports-672a67138e0fe64b11195701" tvg-id="672a67138e0fe64b11195701" tvg-chno="372" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c" group-title="ESPORTES",Escape TV
 https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-69b1e7c6e2c5c4a81868dbce" tvg-id="69b1e7c6e2c5c4a81868dbce" tvg-chno="373" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6898e539-f71d-483b-9253-5d12a726f419" group-title="ESPORTES",Shooting Sports Life
+https://linear-1312.frequency.stream/dist/freelivesports/1312/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-670800411a95445e2203071e" tvg-id="670800411a95445e2203071e" tvg-chno="375" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9f6d504c-b4d1-433a-8bb0-a7b7c8142be9" group-title="ESPORTES",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
