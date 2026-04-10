@@ -2806,6 +2806,18 @@
                 "En Espa\u00f1ol"
             ]
         },
+        "69d6d88b1790acff6189dea5": {
+            "call_sign": null,
+            "slug": "addictatv",
+            "name": "AddictaTV",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png",
+            "id": "646546f35db8ada4c8edd7e5-69d6d88b1790acff6189dea5",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69d6d88b1790acff6189dea5.m3u8",
+            "gridKey": "69d6d88b1790acff6189dea5",
+            "group": [
+                "En Espa\u00f1ol"
+            ]
+        },
         "65d90ec99c7a6da8c3ce57eb": {
             "call_sign": null,
             "slug": "movieitaly-channel",
@@ -2856,6 +2868,18 @@
             ],
             "tmsid": "134197",
             "time_shift": "-6"
+        },
+        "64b1e1217d4037206787f384": {
+            "call_sign": null,
+            "slug": "nolly-africa-hd",
+            "name": "Nolly Africa HD",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png",
+            "id": "646546f35db8ada4c8edd7e5-64b1e1217d4037206787f384",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-64b1e1217d4037206787f384.m3u8",
+            "gridKey": "64b1e1217d4037206787f384",
+            "group": [
+                "International"
+            ]
         },
         "674f6a6cf44561420465f9f3": {
             "call_sign": null,
