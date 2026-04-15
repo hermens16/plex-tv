@@ -2397,6 +2397,18 @@
                 "Kids & Family"
             ]
         },
+        "69a526053eb39481c7edd563": {
+            "call_sign": null,
+            "slug": "masha-y-el-oso",
+            "name": "Masha y el Oso",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/a856935d-e422-4826-8ac0-161deb7bc0ad/masha_oso_color.png",
+            "id": "646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563.m3u8",
+            "gridKey": "69a526053eb39481c7edd563",
+            "group": [
+                "Kids & Family"
+            ]
+        },
         "69a516217c245b3390e8a4d2": {
             "call_sign": null,
             "slug": "delito",
