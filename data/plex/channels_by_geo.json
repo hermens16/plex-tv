@@ -875,19 +875,6 @@
                 "Sports"
             ]
         },
-        "64ac687b4192b4e1bab96279": {
-            "call_sign": null,
-            "slug": "pokergo",
-            "name": "PokerGO",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",
-            "id": "646546f35db8ada4c8edd7e5-64ac687b4192b4e1bab96279",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-64ac687b4192b4e1bab96279.m3u8",
-            "gridKey": "64ac687b4192b4e1bab96279",
-            "group": [
-                "Sports"
-            ],
-            "tmsid": "124268"
-        },
         "63f914bffe2c3d32e1a7929f": {
             "call_sign": null,
             "slug": "glory-kickboxing",
