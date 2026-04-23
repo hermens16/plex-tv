@@ -156,6 +156,18 @@
                 "Drama TV"
             ]
         },
+        "69b3481702912c2ce7ad9a3d": {
+            "call_sign": null,
+            "slug": "caracol-mix-2",
+            "name": "Caracol Mix",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
+            "id": "646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d.m3u8",
+            "gridKey": "69b3481702912c2ce7ad9a3d",
+            "group": [
+                "Drama TV"
+            ]
+        },
         "6683f650702b9db9f8177250": {
             "call_sign": null,
             "slug": "runtime-crime",
