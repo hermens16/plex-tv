@@ -1359,18 +1359,6 @@
                 "Sci-Fi & Action"
             ]
         },
-        "68b9f0bdd60e5dd29263c7a1": {
-            "call_sign": null,
-            "slug": "panico-tv-espanol",
-            "name": "P\u00e1nico TV Espa\u00f1ol",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/fe6756ce-6904-4b6b-b86b-e17b5ee1dfab/panicLight_Logo__2_.png",
-            "id": "646546f35db8ada4c8edd7e5-68b9f0bdd60e5dd29263c7a1",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-68b9f0bdd60e5dd29263c7a1.m3u8",
-            "gridKey": "68b9f0bdd60e5dd29263c7a1",
-            "group": [
-                "Chills & Thrills"
-            ]
-        },
         "621671d05abdd3d5556a1baf": {
             "call_sign": null,
             "slug": "watch-it-scream-2",
