@@ -586,6 +586,18 @@
                 "Sports"
             ]
         },
+        "69f4f6c2647c1d14cc38677b": {
+            "call_sign": null,
+            "slug": "nfl-channel-3",
+            "name": "NFL Channel",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",
+            "id": "646546f35db8ada4c8edd7e5-69f4f6c2647c1d14cc38677b",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69f4f6c2647c1d14cc38677b.m3u8",
+            "gridKey": "69f4f6c2647c1d14cc38677b",
+            "group": [
+                "Sports"
+            ]
+        },
         "668df5b62a509dc696147c27": {
             "call_sign": null,
             "slug": "the-world-poker-tour-4",
@@ -1617,6 +1629,19 @@
                 "Daytime TV"
             ]
         },
+        "652a8b001b5c74bc83cf727c": {
+            "call_sign": "DOGWHSP",
+            "slug": "dog-whisperer",
+            "name": "Dog Whisperer",
+            "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
+            "id": "646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c.m3u8",
+            "gridKey": "652a8b001b5c74bc83cf727c",
+            "group": [
+                "Daytime TV"
+            ],
+            "tmsid": "147688"
+        },
         "6970fb0da9bfa146ce34e432": {
             "call_sign": null,
             "slug": "nature-time-10",
@@ -1840,6 +1865,18 @@
             "id": "646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d.m3u8",
             "gridKey": "6470477fe536e0faaf10be9d",
+            "group": [
+                "History & Science"
+            ]
+        },
+        "69f52ffb6e5708fb20d36d9c": {
+            "call_sign": null,
+            "slug": "the-prof-g-channel",
+            "name": "The Prof G Channel",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+            "id": "646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c.m3u8",
+            "gridKey": "69f52ffb6e5708fb20d36d9c",
             "group": [
                 "History & Science"
             ]
