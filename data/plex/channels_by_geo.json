@@ -2854,6 +2854,18 @@
                 "En Espa\u00f1ol"
             ]
         },
+        "608b7095a09205002da4f295": {
+            "call_sign": null,
+            "slug": "freetv-drama-2",
+            "name": "FreeTV Drama",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+            "id": "646546f35db8ada4c8edd7e5-608b7095a09205002da4f295",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8",
+            "gridKey": "608b7095a09205002da4f295",
+            "group": [
+                "En Espa\u00f1ol"
+            ]
+        },
         "65d90ec99c7a6da8c3ce57eb": {
             "call_sign": null,
             "slug": "movieitaly-channel",
