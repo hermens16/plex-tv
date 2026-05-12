@@ -1592,6 +1592,19 @@
                 "Daytime TV"
             ]
         },
+        "652a8b001b5c74bc83cf727c": {
+            "call_sign": "DOGWHSP",
+            "slug": "dog-whisperer",
+            "name": "Dog Whisperer",
+            "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
+            "id": "646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c.m3u8",
+            "gridKey": "652a8b001b5c74bc83cf727c",
+            "group": [
+                "Daytime TV"
+            ],
+            "tmsid": "147688"
+        },
         "6582a1316b91be4547aa153c": {
             "call_sign": null,
             "slug": "hot-ones-2",
@@ -1628,19 +1641,6 @@
             "group": [
                 "Daytime TV"
             ]
-        },
-        "652a8b001b5c74bc83cf727c": {
-            "call_sign": "DOGWHSP",
-            "slug": "dog-whisperer",
-            "name": "Dog Whisperer",
-            "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
-            "id": "646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c.m3u8",
-            "gridKey": "652a8b001b5c74bc83cf727c",
-            "group": [
-                "Daytime TV"
-            ],
-            "tmsid": "147688"
         },
         "6970fb0da9bfa146ce34e432": {
             "call_sign": null,
