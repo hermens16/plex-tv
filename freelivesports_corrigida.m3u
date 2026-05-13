@@ -375,3 +375,9 @@ https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-e
 #EXTINF:-1 channel-id="freelivesports-695d80af6bc7cedaa26a0bcb" tvg-id="695d80af6bc7cedaa26a0bcb" tvg-chno="1009" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b81ff3ab-bd75-4ad0-850c-e61bd19be1e0" group-title="ESPORTES",POWERtube TV
 https://amg26268-amg26268c20-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c20-amgplt0201/playlist.m3u8
 
+#EXTINF:-1 channel-id="freelivesports-69faab93535be754e3bcad49" tvg-id="69faab93535be754e3bcad49" tvg-chno="1012" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f6531baa-683a-4157-a880-750b0081d788" group-title="ESPORTES",That Peter Crouch Podcast
+https://api-ott.marvellousclub.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-69faab495249e11465d939f5" tvg-id="69faab495249e11465d939f5" tvg-chno="1013" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ddac47c-2279-4d73-8d85-923344777e7d" group-title="ESPORTES",The Therapy Crouch
+https://api-ott.marvellousclub.com/loggingmediaurlpassthrough/a.m3u8
+
