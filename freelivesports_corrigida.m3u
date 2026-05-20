@@ -9,8 +9,8 @@ https://amg01444-amg01444c2-freelivesports-emea-11541.playouts.now.amagi.tv/ts-e
 #EXTINF:-1 channel-id="freelivesports-6972a8e2e4de1b00c3cf2bb6" tvg-id="6972a8e2e4de1b00c3cf2bb6" tvg-chno="3" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7aa8dcbe-6345-4bce-ab74-83a4e197e99b" group-title="ESPORTES",NASCAR
 https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-67f41e06811b7e0fb25171d1" tvg-id="67f41e06811b7e0fb25171d1" tvg-chno="4" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="ESPORTES",Harlem Globetrotters
-https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-69faab93535be754e3bcad49" tvg-id="69faab93535be754e3bcad49" tvg-chno="4" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f6531baa-683a-4157-a880-750b0081d788" group-title="ESPORTES",That Peter Crouch Podcast
+https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-66fafe92ae9285e6ac7449d7" tvg-id="66fafe92ae9285e6ac7449d7" tvg-chno="5" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/679e1dc3-2d4b-4a06-ad87-9c9cbaf8a53b" group-title="ESPORTES",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
@@ -231,6 +231,9 @@ https://linear-1013.frequency.stream/dist/freelivesports/1013/hls/master/playlis
 #EXTINF:-1 channel-id="freelivesports-6849b955d58379ecd0a5371e" tvg-id="6849b955d58379ecd0a5371e" tvg-chno="259" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8" group-title="ESPORTES",DFB Play
 https://stream.ads.ottera.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="freelivesports-67f41e06811b7e0fb25171d1" tvg-id="67f41e06811b7e0fb25171d1" tvg-chno="260" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="ESPORTES",Harlem Globetrotters
+https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
+
 #EXTINF:-1 channel-id="freelivesports-6943e7dc182a4a3d2bcd3c10" tvg-id="6943e7dc182a4a3d2bcd3c10" tvg-chno="261" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018" group-title="ESPORTES",Top Barca
 https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8
 
@@ -302,9 +305,6 @@ https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 channel-id="freelivesports-681b9d6eb95e0938cb79e5be" tvg-id="681b9d6eb95e0938cb79e5be" tvg-chno="348" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/512e69d0-b21d-42b8-acdb-06bc2df7ca1d" group-title="ESPORTES",Skull Bound TV
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/4QT2WMPRUUVGQ48G9KYQ/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-69faab93535be754e3bcad49" tvg-id="69faab93535be754e3bcad49" tvg-chno="359" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f6531baa-683a-4157-a880-750b0081d788" group-title="ESPORTES",That Peter Crouch Podcast
-https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-69faab495249e11465d939f5" tvg-id="69faab495249e11465d939f5" tvg-chno="360" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ddac47c-2279-4d73-8d85-923344777e7d" group-title="ESPORTES",The Therapy Crouch
 https://stream.ads.ottera.tv/playlist.m3u8
