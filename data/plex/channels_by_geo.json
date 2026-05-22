@@ -9,7 +9,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8",
             "gridKey": "65722042b10e9d22a882bde2",
             "group": [
-                "Hit TV"
+                "Bingeworthy"
             ]
         },
         "67d1be3696c7b08c26c19d64": {
@@ -21,19 +21,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67d1be3696c7b08c26c19d64.m3u8",
             "gridKey": "67d1be3696c7b08c26c19d64",
             "group": [
-                "Hit TV"
-            ]
-        },
-        "626c1753ffda6789d20a452e": {
-            "call_sign": null,
-            "slug": "cops",
-            "name": "COPS",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
-            "id": "646546f35db8ada4c8edd7e5-626c1753ffda6789d20a452e",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-626c1753ffda6789d20a452e.m3u8",
-            "gridKey": "626c1753ffda6789d20a452e",
-            "group": [
-                "Hit TV"
+                "Bingeworthy"
             ]
         },
         "65e9d0ad8fe4ef7053c3c86c": {
@@ -45,7 +33,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8",
             "gridKey": "65e9d0ad8fe4ef7053c3c86c",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "6977fc665d94f0bdc7bdd992": {
@@ -57,7 +45,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992.m3u8",
             "gridKey": "6977fc665d94f0bdc7bdd992",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "68a791fc199b0fcd6249cbb3": {
@@ -69,7 +57,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-68a791fc199b0fcd6249cbb3.m3u8",
             "gridKey": "68a791fc199b0fcd6249cbb3",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "687fff07996f1a2fb393a6e1": {
@@ -81,7 +69,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-687fff07996f1a2fb393a6e1.m3u8",
             "gridKey": "687fff07996f1a2fb393a6e1",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "68a78f1d9c93a153bd8cba4b": {
@@ -93,7 +81,19 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-68a78f1d9c93a153bd8cba4b.m3u8",
             "gridKey": "68a78f1d9c93a153bd8cba4b",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
+            ]
+        },
+        "626c1753ffda6789d20a452e": {
+            "call_sign": null,
+            "slug": "cops",
+            "name": "COPS",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+            "id": "646546f35db8ada4c8edd7e5-626c1753ffda6789d20a452e",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-626c1753ffda6789d20a452e.m3u8",
+            "gridKey": "626c1753ffda6789d20a452e",
+            "group": [
+                "Bingeworthy"
             ]
         },
         "67f82cc411e2a0ebf4b022d8": {
@@ -105,7 +105,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67f82cc411e2a0ebf4b022d8.m3u8",
             "gridKey": "67f82cc411e2a0ebf4b022d8",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "67c24d5a45ae99120c07158c": {
@@ -117,7 +117,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67c24d5a45ae99120c07158c.m3u8",
             "gridKey": "67c24d5a45ae99120c07158c",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "691536d338cb396cc8e5b40a": {
@@ -129,7 +129,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-691536d338cb396cc8e5b40a.m3u8",
             "gridKey": "691536d338cb396cc8e5b40a",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "66ea196ac24d95b51b7cd18b": {
@@ -141,7 +141,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-66ea196ac24d95b51b7cd18b.m3u8",
             "gridKey": "66ea196ac24d95b51b7cd18b",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "656237c55dbccec83a87b649": {
@@ -153,7 +153,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-656237c55dbccec83a87b649.m3u8",
             "gridKey": "656237c55dbccec83a87b649",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "69b3481702912c2ce7ad9a3d": {
@@ -165,7 +165,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d.m3u8",
             "gridKey": "69b3481702912c2ce7ad9a3d",
             "group": [
-                "Drama TV"
+                "Bingeworthy"
             ]
         },
         "6683f650702b9db9f8177250": {
@@ -1295,7 +1295,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6683f942cd6f1d3940941149.m3u8",
             "gridKey": "6683f942cd6f1d3940941149",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "6683faa4cd6f1d394094114b": {
@@ -1307,7 +1307,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6683faa4cd6f1d394094114b.m3u8",
             "gridKey": "6683faa4cd6f1d394094114b",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "6864668119cc2e163e38d167": {
@@ -1319,7 +1319,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6864668119cc2e163e38d167.m3u8",
             "gridKey": "6864668119cc2e163e38d167",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "66be944f8711311880995280": {
@@ -1331,7 +1331,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-66be944f8711311880995280.m3u8",
             "gridKey": "66be944f8711311880995280",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "656236cc5dbccec83a87b647": {
@@ -1343,7 +1343,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-656236cc5dbccec83a87b647.m3u8",
             "gridKey": "656236cc5dbccec83a87b647",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "635195e9ccee3e1547a8831a": {
@@ -1355,7 +1355,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-635195e9ccee3e1547a8831a.m3u8",
             "gridKey": "635195e9ccee3e1547a8831a",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ],
             "tmsid": "130175"
         },
@@ -1368,7 +1368,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-621672e42c2627c068e73ad8.m3u8",
             "gridKey": "621672e42c2627c068e73ad8",
             "group": [
-                "Sci-Fi & Action"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "621671d05abdd3d5556a1baf": {
@@ -1380,7 +1380,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-621671d05abdd3d5556a1baf.m3u8",
             "gridKey": "621671d05abdd3d5556a1baf",
             "group": [
-                "Chills & Thrills"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "621674502c2627c068e73ada": {
@@ -1392,7 +1392,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-621674502c2627c068e73ada.m3u8",
             "gridKey": "621674502c2627c068e73ada",
             "group": [
-                "Chills & Thrills"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "61d738b5a7b7c7f703418514": {
@@ -1404,7 +1404,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-61d738b5a7b7c7f703418514.m3u8",
             "gridKey": "61d738b5a7b7c7f703418514",
             "group": [
-                "Chills & Thrills"
+                "Adrenaline & Sci-Fi"
             ]
         },
         "68111e72e57481a3c2d16dce": {
@@ -1538,7 +1538,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-66e4cbef38de9754b6b13e90.m3u8",
             "gridKey": "66e4cbef38de9754b6b13e90",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ],
             "tmsid": "161356"
         },
@@ -1551,7 +1551,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff262d71dcb00449ec015.m3u8",
             "gridKey": "5f0ff262d71dcb00449ec015",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ],
             "tmsid": "119233",
             "time_shift": "-5"
@@ -1565,7 +1565,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67d9a3d663c5439aeaf61305.m3u8",
             "gridKey": "67d9a3d663c5439aeaf61305",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ]
         },
         "697144cdbde579fb71262405": {
@@ -1577,7 +1577,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-697144cdbde579fb71262405.m3u8",
             "gridKey": "697144cdbde579fb71262405",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ]
         },
         "69bb1f002028859eafc637e1": {
@@ -1589,7 +1589,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1.m3u8",
             "gridKey": "69bb1f002028859eafc637e1",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ]
         },
         "652a8b001b5c74bc83cf727c": {
@@ -1601,7 +1601,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-652a8b001b5c74bc83cf727c.m3u8",
             "gridKey": "652a8b001b5c74bc83cf727c",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ],
             "tmsid": "147688"
         },
@@ -1614,7 +1614,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6582a1316b91be4547aa153c.m3u8",
             "gridKey": "6582a1316b91be4547aa153c",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ],
             "tmsid": "151230"
         },
@@ -1627,7 +1627,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff262d71dcb00449ec018.m3u8",
             "gridKey": "5f0ff262d71dcb00449ec018",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ]
         },
         "60db63d29ec966002c9ea6f0": {
@@ -1639,7 +1639,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60db63d29ec966002c9ea6f0.m3u8",
             "gridKey": "60db63d29ec966002c9ea6f0",
             "group": [
-                "Daytime TV"
+                "Daytime TV & Games"
             ]
         },
         "6970fb0da9bfa146ce34e432": {
@@ -1651,7 +1651,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6970fb0da9bfa146ce34e432.m3u8",
             "gridKey": "6970fb0da9bfa146ce34e432",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
         },
         "693cbba358076a970420f597": {
@@ -1663,7 +1663,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-693cbba358076a970420f597.m3u8",
             "gridKey": "693cbba358076a970420f597",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
         },
         "62fbf52c1567211fdb82e922": {
@@ -1675,7 +1675,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-62fbf52c1567211fdb82e922.m3u8",
             "gridKey": "62fbf52c1567211fdb82e922",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
         },
         "69a524507c245b3390e8a4dc": {
@@ -1687,7 +1687,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-69a524507c245b3390e8a4dc.m3u8",
             "gridKey": "69a524507c245b3390e8a4dc",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
         },
         "68645f7c1a2f321847ec0393": {
@@ -1699,8 +1699,34 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-68645f7c1a2f321847ec0393.m3u8",
             "gridKey": "68645f7c1a2f321847ec0393",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
+        },
+        "656fb850cb7e8e6a9bc3f36e": {
+            "call_sign": null,
+            "slug": "popular-science",
+            "name": "Popular Science",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png",
+            "id": "646546f35db8ada4c8edd7e5-656fb850cb7e8e6a9bc3f36e",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-656fb850cb7e8e6a9bc3f36e.m3u8",
+            "gridKey": "656fb850cb7e8e6a9bc3f36e",
+            "group": [
+                "Explore"
+            ],
+            "tmsid": "152977"
+        },
+        "664292a80e0ec7b4ce5eb28c": {
+            "call_sign": null,
+            "slug": "startalk-tv",
+            "name": "Startalk TV",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png",
+            "id": "646546f35db8ada4c8edd7e5-664292a80e0ec7b4ce5eb28c",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-664292a80e0ec7b4ce5eb28c.m3u8",
+            "gridKey": "664292a80e0ec7b4ce5eb28c",
+            "group": [
+                "Explore"
+            ],
+            "tmsid": "152030"
         },
         "60d4edddb2fdec002c141135": {
             "call_sign": null,
@@ -1711,7 +1737,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60d4edddb2fdec002c141135.m3u8",
             "gridKey": "60d4edddb2fdec002c141135",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ],
             "tmsid": "122534"
         },
@@ -1724,7 +1750,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-636abc6d4cbc0319a0bd49c0.m3u8",
             "gridKey": "636abc6d4cbc0319a0bd49c0",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
         },
         "5f170d61b898490041b49369": {
@@ -1736,9 +1762,36 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5f170d61b898490041b49369.m3u8",
             "gridKey": "5f170d61b898490041b49369",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ],
             "tmsid": "121165"
+        },
+        "614398a08f30fa61e0da7c97": {
+            "call_sign": null,
+            "slug": "true-history",
+            "name": "True History",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png",
+            "id": "646546f35db8ada4c8edd7e5-614398a08f30fa61e0da7c97",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-614398a08f30fa61e0da7c97.m3u8",
+            "gridKey": "614398a08f30fa61e0da7c97",
+            "group": [
+                "Explore"
+            ],
+            "tmsid": "122536"
+        },
+        "62ab5aabbb869dd0df6a3487": {
+            "call_sign": null,
+            "slug": "ted",
+            "name": "TED",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png",
+            "id": "646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487.m3u8",
+            "gridKey": "62ab5aabbb869dd0df6a3487",
+            "group": [
+                "Explore"
+            ],
+            "tmsid": "124221",
+            "time_shift": "-5"
         },
         "60a9d105d162b9002d05a60c": {
             "call_sign": null,
@@ -1749,7 +1802,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c.m3u8",
             "gridKey": "60a9d105d162b9002d05a60c",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ]
         },
         "5f0ff263d71dcb00449ec021": {
@@ -1761,9 +1814,21 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff263d71dcb00449ec021.m3u8",
             "gridKey": "5f0ff263d71dcb00449ec021",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ],
             "tmsid": "122524"
+        },
+        "6470477fe536e0faaf10be9d": {
+            "call_sign": null,
+            "slug": "robot-wars-by-mech",
+            "name": "Robot Wars by Mech+",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
+            "id": "646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d.m3u8",
+            "gridKey": "6470477fe536e0faaf10be9d",
+            "group": [
+                "Explore"
+            ]
         },
         "5f0ff266d71dcb00449ec030": {
             "call_sign": null,
@@ -1774,7 +1839,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff266d71dcb00449ec030.m3u8",
             "gridKey": "5f0ff266d71dcb00449ec030",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ],
             "tmsid": "127141",
             "time_shift": "-5"
@@ -1788,7 +1853,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-654eb862dde2222e8ba551f1.m3u8",
             "gridKey": "654eb862dde2222e8ba551f1",
             "group": [
-                "Nature & Travel"
+                "Explore"
             ],
             "tmsid": "149883"
         },
@@ -1801,72 +1866,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-66fd3e25216b603e031725fe.m3u8",
             "gridKey": "66fd3e25216b603e031725fe",
             "group": [
-                "Nature & Travel"
-            ]
-        },
-        "656fb850cb7e8e6a9bc3f36e": {
-            "call_sign": null,
-            "slug": "popular-science",
-            "name": "Popular Science",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png",
-            "id": "646546f35db8ada4c8edd7e5-656fb850cb7e8e6a9bc3f36e",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-656fb850cb7e8e6a9bc3f36e.m3u8",
-            "gridKey": "656fb850cb7e8e6a9bc3f36e",
-            "group": [
-                "History & Science"
-            ],
-            "tmsid": "152977"
-        },
-        "664292a80e0ec7b4ce5eb28c": {
-            "call_sign": null,
-            "slug": "startalk-tv",
-            "name": "Startalk TV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png",
-            "id": "646546f35db8ada4c8edd7e5-664292a80e0ec7b4ce5eb28c",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-664292a80e0ec7b4ce5eb28c.m3u8",
-            "gridKey": "664292a80e0ec7b4ce5eb28c",
-            "group": [
-                "History & Science"
-            ],
-            "tmsid": "152030"
-        },
-        "614398a08f30fa61e0da7c97": {
-            "call_sign": null,
-            "slug": "true-history",
-            "name": "True History",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png",
-            "id": "646546f35db8ada4c8edd7e5-614398a08f30fa61e0da7c97",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-614398a08f30fa61e0da7c97.m3u8",
-            "gridKey": "614398a08f30fa61e0da7c97",
-            "group": [
-                "History & Science"
-            ],
-            "tmsid": "122536"
-        },
-        "62ab5aabbb869dd0df6a3487": {
-            "call_sign": null,
-            "slug": "ted",
-            "name": "TED",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png",
-            "id": "646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487.m3u8",
-            "gridKey": "62ab5aabbb869dd0df6a3487",
-            "group": [
-                "History & Science"
-            ],
-            "tmsid": "124221",
-            "time_shift": "-5"
-        },
-        "6470477fe536e0faaf10be9d": {
-            "call_sign": null,
-            "slug": "robot-wars-by-mech",
-            "name": "Robot Wars by Mech+",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
-            "id": "646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-6470477fe536e0faaf10be9d.m3u8",
-            "gridKey": "6470477fe536e0faaf10be9d",
-            "group": [
-                "History & Science"
+                "Explore"
             ]
         },
         "69f52ffb6e5708fb20d36d9c": {
@@ -1878,7 +1878,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-69f52ffb6e5708fb20d36d9c.m3u8",
             "gridKey": "69f52ffb6e5708fb20d36d9c",
             "group": [
-                "History & Science"
+                "Explore"
             ]
         },
         "65cd522126388de8e0b08271": {
@@ -1890,155 +1890,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271.m3u8",
             "gridKey": "65cd522126388de8e0b08271",
             "group": [
-                "Food & Home"
-            ]
-        },
-        "684c2379e32026b0c1f53793": {
-            "call_sign": null,
-            "slug": "million-dollar-dream-home",
-            "name": "Million Dollar Dream Home",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png",
-            "id": "646546f35db8ada4c8edd7e5-684c2379e32026b0c1f53793",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-684c2379e32026b0c1f53793.m3u8",
-            "gridKey": "684c2379e32026b0c1f53793",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "672948f0297d4ea7584a2e13": {
-            "call_sign": null,
-            "slug": "the-martha-stewart-channel",
-            "name": "The Martha Stewart Channel",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png",
-            "id": "646546f35db8ada4c8edd7e5-672948f0297d4ea7584a2e13",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-672948f0297d4ea7584a2e13.m3u8",
-            "gridKey": "672948f0297d4ea7584a2e13",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "63894c1965b848bf2c8a7800": {
-            "call_sign": null,
-            "slug": "5-minute-crafts",
-            "name": "5-Minute Crafts",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
-            "id": "646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800.m3u8",
-            "gridKey": "63894c1965b848bf2c8a7800",
-            "group": [
-                "Food & Home"
-            ],
-            "tmsid": "156197"
-        },
-        "6365779dde08f8eec6c3f21f": {
-            "call_sign": null,
-            "slug": "craftsytv",
-            "name": "CraftsyTV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png",
-            "id": "646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f.m3u8",
-            "gridKey": "6365779dde08f8eec6c3f21f",
-            "group": [
-                "Food & Home"
-            ],
-            "tmsid": "132607"
-        },
-        "66ea0e029502c5778b828d45": {
-            "call_sign": null,
-            "slug": "drool",
-            "name": "Drool",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-            "id": "646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45.m3u8",
-            "gridKey": "66ea0e029502c5778b828d45",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "5f0641d3e8ffda004033b16e": {
-            "call_sign": null,
-            "slug": "the-design-network",
-            "name": "The Design Network",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",
-            "id": "646546f35db8ada4c8edd7e5-5f0641d3e8ffda004033b16e",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0641d3e8ffda004033b16e.m3u8",
-            "gridKey": "5f0641d3e8ffda004033b16e",
-            "group": [
-                "Food & Home"
-            ],
-            "tmsid": "118087"
-        },
-        "65b80306e5cf85050598aba4": {
-            "call_sign": null,
-            "slug": "made-it-myself-tv",
-            "name": "Made It Myself TV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-            "id": "646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4.m3u8",
-            "gridKey": "65b80306e5cf85050598aba4",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "5f8746eabd529300418246d9": {
-            "call_sign": "GUSTOTV",
-            "slug": "gusto-tv",
-            "name": "GUSTOTV",
-            "logo": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png",
-            "id": "646546f35db8ada4c8edd7e5-5f8746eabd529300418246d9",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-5f8746eabd529300418246d9.m3u8",
-            "gridKey": "5f8746eabd529300418246d9",
-            "group": [
-                "Food & Home"
-            ],
-            "tmsid": "111140"
-        },
-        "5f07e9fdf313eb0041bbecda": {
-            "call_sign": null,
-            "slug": "cooking-panda",
-            "name": "Cooking Panda",
-            "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
-            "id": "646546f35db8ada4c8edd7e5-5f07e9fdf313eb0041bbecda",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-5f07e9fdf313eb0041bbecda.m3u8",
-            "gridKey": "5f07e9fdf313eb0041bbecda",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "67294a601055ef3897c73477": {
-            "call_sign": null,
-            "slug": "the-emeril-lagasse-channel",
-            "name": "The Emeril Lagasse Channel",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
-            "id": "646546f35db8ada4c8edd7e5-67294a601055ef3897c73477",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-67294a601055ef3897c73477.m3u8",
-            "gridKey": "67294a601055ef3897c73477",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "69332c3c7e751889844fdfe5": {
-            "call_sign": null,
-            "slug": "homeful-4",
-            "name": "Homeful",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/b9704128-90e3-4540-a21b-6b750556d1bb/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png",
-            "id": "646546f35db8ada4c8edd7e5-69332c3c7e751889844fdfe5",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-69332c3c7e751889844fdfe5.m3u8",
-            "gridKey": "69332c3c7e751889844fdfe5",
-            "group": [
-                "Food & Home"
-            ]
-        },
-        "68b74890b5b437bf872b6b72": {
-            "call_sign": null,
-            "slug": "tv5monde-chefs",
-            "name": "TV5MONDE Chefs",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
-            "id": "646546f35db8ada4c8edd7e5-68b74890b5b437bf872b6b72",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-68b74890b5b437bf872b6b72.m3u8",
-            "gridKey": "68b74890b5b437bf872b6b72",
-            "group": [
-                "Food & Home"
+                "Food, Home & Culture"
             ]
         },
         "5efe1de6e0b3f5003f5d9f88": {
@@ -2050,7 +1902,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5efe1de6e0b3f5003f5d9f88.m3u8",
             "gridKey": "5efe1de6e0b3f5003f5d9f88",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ],
             "tmsid": "114491"
         },
@@ -2063,7 +1915,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6349ed0eb1adc4cfa571fd37.m3u8",
             "gridKey": "6349ed0eb1adc4cfa571fd37",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ],
             "tmsid": "132889"
         },
@@ -2076,7 +1928,31 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-68c87137679609f139e6cbe0.m3u8",
             "gridKey": "68c87137679609f139e6cbe0",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
+            ]
+        },
+        "684c2379e32026b0c1f53793": {
+            "call_sign": null,
+            "slug": "million-dollar-dream-home",
+            "name": "Million Dollar Dream Home",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png",
+            "id": "646546f35db8ada4c8edd7e5-684c2379e32026b0c1f53793",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-684c2379e32026b0c1f53793.m3u8",
+            "gridKey": "684c2379e32026b0c1f53793",
+            "group": [
+                "Food, Home & Culture"
+            ]
+        },
+        "672948f0297d4ea7584a2e13": {
+            "call_sign": null,
+            "slug": "the-martha-stewart-channel",
+            "name": "The Martha Stewart Channel",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png",
+            "id": "646546f35db8ada4c8edd7e5-672948f0297d4ea7584a2e13",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-672948f0297d4ea7584a2e13.m3u8",
+            "gridKey": "672948f0297d4ea7584a2e13",
+            "group": [
+                "Food, Home & Culture"
             ]
         },
         "5ef11487d33ab9004048a1d3": {
@@ -2088,9 +1964,22 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5ef11487d33ab9004048a1d3.m3u8",
             "gridKey": "5ef11487d33ab9004048a1d3",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ],
             "tmsid": "120283"
+        },
+        "63894c1965b848bf2c8a7800": {
+            "call_sign": null,
+            "slug": "5-minute-crafts",
+            "name": "5-Minute Crafts",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
+            "id": "646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800.m3u8",
+            "gridKey": "63894c1965b848bf2c8a7800",
+            "group": [
+                "Food, Home & Culture"
+            ],
+            "tmsid": "156197"
         },
         "67642f277c5e3b38af72dcdb": {
             "call_sign": "CIDUS",
@@ -2101,9 +1990,47 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67642f277c5e3b38af72dcdb.m3u8",
             "gridKey": "67642f277c5e3b38af72dcdb",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ],
             "tmsid": "167590"
+        },
+        "6365779dde08f8eec6c3f21f": {
+            "call_sign": null,
+            "slug": "craftsytv",
+            "name": "CraftsyTV",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png",
+            "id": "646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f.m3u8",
+            "gridKey": "6365779dde08f8eec6c3f21f",
+            "group": [
+                "Food, Home & Culture"
+            ],
+            "tmsid": "132607"
+        },
+        "66ea0e029502c5778b828d45": {
+            "call_sign": null,
+            "slug": "drool",
+            "name": "Drool",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
+            "id": "646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45.m3u8",
+            "gridKey": "66ea0e029502c5778b828d45",
+            "group": [
+                "Food, Home & Culture"
+            ]
+        },
+        "5f0641d3e8ffda004033b16e": {
+            "call_sign": null,
+            "slug": "the-design-network",
+            "name": "The Design Network",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",
+            "id": "646546f35db8ada4c8edd7e5-5f0641d3e8ffda004033b16e",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0641d3e8ffda004033b16e.m3u8",
+            "gridKey": "5f0641d3e8ffda004033b16e",
+            "group": [
+                "Food, Home & Culture"
+            ],
+            "tmsid": "118087"
         },
         "6490c01f3b3ce9e1aaad95be": {
             "call_sign": null,
@@ -2114,7 +2041,56 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6490c01f3b3ce9e1aaad95be.m3u8",
             "gridKey": "6490c01f3b3ce9e1aaad95be",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
+            ]
+        },
+        "65b80306e5cf85050598aba4": {
+            "call_sign": null,
+            "slug": "made-it-myself-tv",
+            "name": "Made It Myself TV",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
+            "id": "646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4.m3u8",
+            "gridKey": "65b80306e5cf85050598aba4",
+            "group": [
+                "Food, Home & Culture"
+            ]
+        },
+        "5f8746eabd529300418246d9": {
+            "call_sign": "GUSTOTV",
+            "slug": "gusto-tv",
+            "name": "GUSTOTV",
+            "logo": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png",
+            "id": "646546f35db8ada4c8edd7e5-5f8746eabd529300418246d9",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-5f8746eabd529300418246d9.m3u8",
+            "gridKey": "5f8746eabd529300418246d9",
+            "group": [
+                "Food, Home & Culture"
+            ],
+            "tmsid": "111140"
+        },
+        "5f07e9fdf313eb0041bbecda": {
+            "call_sign": null,
+            "slug": "cooking-panda",
+            "name": "Cooking Panda",
+            "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
+            "id": "646546f35db8ada4c8edd7e5-5f07e9fdf313eb0041bbecda",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-5f07e9fdf313eb0041bbecda.m3u8",
+            "gridKey": "5f07e9fdf313eb0041bbecda",
+            "group": [
+                "Food, Home & Culture"
+            ]
+        },
+        "67294a601055ef3897c73477": {
+            "call_sign": null,
+            "slug": "the-emeril-lagasse-channel",
+            "name": "The Emeril Lagasse Channel",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
+            "id": "646546f35db8ada4c8edd7e5-67294a601055ef3897c73477",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-67294a601055ef3897c73477.m3u8",
+            "gridKey": "67294a601055ef3897c73477",
+            "group": [
+                "Food, Home & Culture"
             ]
         },
         "5efe1de6e0b3f5003f5d9f82": {
@@ -2126,7 +2102,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5efe1de6e0b3f5003f5d9f82.m3u8",
             "gridKey": "5efe1de6e0b3f5003f5d9f82",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ],
             "tmsid": "157506"
         },
@@ -2139,7 +2115,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5eea605474085f0040ddc76d.m3u8",
             "gridKey": "5eea605474085f0040ddc76d",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ]
         },
         "6112a9139894c8002c6cb87f": {
@@ -2151,7 +2127,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-6112a9139894c8002c6cb87f.m3u8",
             "gridKey": "6112a9139894c8002c6cb87f",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ]
         },
         "5ef11487d33ab9004048a1d9": {
@@ -2163,7 +2139,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-5ef11487d33ab9004048a1d9.m3u8",
             "gridKey": "5ef11487d33ab9004048a1d9",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ]
         },
         "62167144ab2095ca85353ad6": {
@@ -2175,7 +2151,31 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-62167144ab2095ca85353ad6.m3u8",
             "gridKey": "62167144ab2095ca85353ad6",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
+            ]
+        },
+        "69332c3c7e751889844fdfe5": {
+            "call_sign": null,
+            "slug": "homeful-4",
+            "name": "Homeful",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/b9704128-90e3-4540-a21b-6b750556d1bb/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png",
+            "id": "646546f35db8ada4c8edd7e5-69332c3c7e751889844fdfe5",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69332c3c7e751889844fdfe5.m3u8",
+            "gridKey": "69332c3c7e751889844fdfe5",
+            "group": [
+                "Food, Home & Culture"
+            ]
+        },
+        "68b74890b5b437bf872b6b72": {
+            "call_sign": null,
+            "slug": "tv5monde-chefs",
+            "name": "TV5MONDE Chefs",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+            "id": "646546f35db8ada4c8edd7e5-68b74890b5b437bf872b6b72",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-68b74890b5b437bf872b6b72.m3u8",
+            "gridKey": "68b74890b5b437bf872b6b72",
+            "group": [
+                "Food, Home & Culture"
             ]
         },
         "68b74a235dc5413c905efd62": {
@@ -2187,7 +2187,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-68b74a235dc5413c905efd62.m3u8",
             "gridKey": "68b74a235dc5413c905efd62",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ]
         },
         "69814bbff871095eafc65925": {
@@ -2199,7 +2199,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-69814bbff871095eafc65925.m3u8",
             "gridKey": "69814bbff871095eafc65925",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ]
         },
         "67c2496d45ae99120c071588": {
@@ -2211,7 +2211,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67c2496d45ae99120c071588.m3u8",
             "gridKey": "67c2496d45ae99120c071588",
             "group": [
-                "Lifestyle"
+                "Food, Home & Culture"
             ]
         },
         "675a401b67838c2b166105d8": {
@@ -2875,7 +2875,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-65d90ec99c7a6da8c3ce57eb.m3u8",
             "gridKey": "65d90ec99c7a6da8c3ce57eb",
             "group": [
-                "International"
+                "Global"
             ]
         },
         "62d1a58e520656fda09e609d": {
@@ -2887,7 +2887,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-62d1a58e520656fda09e609d.m3u8",
             "gridKey": "62d1a58e520656fda09e609d",
             "group": [
-                "International"
+                "Global"
             ],
             "tmsid": "132109"
         },
@@ -2900,7 +2900,31 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-68b9f5a3d60e5dd29263c7ac.m3u8",
             "gridKey": "68b9f5a3d60e5dd29263c7ac",
             "group": [
-                "International"
+                "Global"
+            ]
+        },
+        "674f6a6cf44561420465f9f3": {
+            "call_sign": null,
+            "slug": "animation",
+            "name": "Animation+",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png",
+            "id": "646546f35db8ada4c8edd7e5-674f6a6cf44561420465f9f3",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-674f6a6cf44561420465f9f3.m3u8",
+            "gridKey": "674f6a6cf44561420465f9f3",
+            "group": [
+                "Global"
+            ]
+        },
+        "689e1f0dd84bfb3d54b6756f": {
+            "call_sign": null,
+            "slug": "bizaar",
+            "name": "Bizaar",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png",
+            "id": "646546f35db8ada4c8edd7e5-689e1f0dd84bfb3d54b6756f",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-689e1f0dd84bfb3d54b6756f.m3u8",
+            "gridKey": "689e1f0dd84bfb3d54b6756f",
+            "group": [
+                "Global"
             ]
         },
         "60e737a4ebef9d002c4d0a0c": {
@@ -2912,7 +2936,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60e737a4ebef9d002c4d0a0c.m3u8",
             "gridKey": "60e737a4ebef9d002c4d0a0c",
             "group": [
-                "International"
+                "Global"
             ],
             "tmsid": "134197",
             "time_shift": "-6"
@@ -2926,31 +2950,7 @@
             "key": "/library/parts/646546f35db8ada4c8edd7e5-64b1e1217d4037206787f384.m3u8",
             "gridKey": "64b1e1217d4037206787f384",
             "group": [
-                "International"
-            ]
-        },
-        "674f6a6cf44561420465f9f3": {
-            "call_sign": null,
-            "slug": "animation",
-            "name": "Animation+",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png",
-            "id": "646546f35db8ada4c8edd7e5-674f6a6cf44561420465f9f3",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-674f6a6cf44561420465f9f3.m3u8",
-            "gridKey": "674f6a6cf44561420465f9f3",
-            "group": [
-                "Anime+"
-            ]
-        },
-        "689e1f0dd84bfb3d54b6756f": {
-            "call_sign": null,
-            "slug": "bizaar",
-            "name": "Bizaar",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png",
-            "id": "646546f35db8ada4c8edd7e5-689e1f0dd84bfb3d54b6756f",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-689e1f0dd84bfb3d54b6756f.m3u8",
-            "gridKey": "689e1f0dd84bfb3d54b6756f",
-            "group": [
-                "Anime+"
+                "Global"
             ]
         },
         "6196c8c01d310bf925e02615": {
