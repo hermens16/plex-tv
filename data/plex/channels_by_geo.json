@@ -2397,18 +2397,6 @@
                 "Kids & Family"
             ]
         },
-        "656fb124cb7e8e6a9bc3f36a": {
-            "call_sign": null,
-            "slug": "kidz-bop-tv",
-            "name": "Kidz Bop TV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png",
-            "id": "646546f35db8ada4c8edd7e5-656fb124cb7e8e6a9bc3f36a",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-656fb124cb7e8e6a9bc3f36a.m3u8",
-            "gridKey": "656fb124cb7e8e6a9bc3f36a",
-            "group": [
-                "Kids & Family"
-            ]
-        },
         "69333216ac5b3f9f53442374": {
             "call_sign": null,
             "slug": "baby-einstein",
