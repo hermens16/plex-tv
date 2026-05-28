@@ -1955,19 +1955,6 @@
                 "Food, Home & Culture"
             ]
         },
-        "5ef11487d33ab9004048a1d3": {
-            "call_sign": null,
-            "slug": "choppertown",
-            "name": "Choppertown",
-            "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png",
-            "id": "646546f35db8ada4c8edd7e5-5ef11487d33ab9004048a1d3",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-5ef11487d33ab9004048a1d3.m3u8",
-            "gridKey": "5ef11487d33ab9004048a1d3",
-            "group": [
-                "Food, Home & Culture"
-            ],
-            "tmsid": "120283"
-        },
         "63894c1965b848bf2c8a7800": {
             "call_sign": null,
             "slug": "5-minute-crafts",
