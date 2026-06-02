@@ -1568,18 +1568,6 @@
                 "Daytime TV & Games"
             ]
         },
-        "697144cdbde579fb71262405": {
-            "call_sign": null,
-            "slug": "all-my-children",
-            "name": "All My Children",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/48d74976-a600-4cf5-8fd7-cbda6aa92348/AMC_channel_logo_1500x1000_WHT_TEXT_Brian_MartinRDX.png",
-            "id": "646546f35db8ada4c8edd7e5-697144cdbde579fb71262405",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-697144cdbde579fb71262405.m3u8",
-            "gridKey": "697144cdbde579fb71262405",
-            "group": [
-                "Daytime TV & Games"
-            ]
-        },
         "69bb1f002028859eafc637e1": {
             "call_sign": null,
             "slug": "legacy",
