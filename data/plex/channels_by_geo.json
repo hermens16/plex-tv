@@ -586,6 +586,18 @@
                 "Sports"
             ]
         },
+        "6a1f3a9475210dddf5af4f33": {
+            "call_sign": null,
+            "slug": "ufc-2",
+            "name": "UFC",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/b4cbd17b-af0a-44c2-bb98-1b4b77329e58/UFC_logo_WHT_1500x1000__1_.png",
+            "id": "646546f35db8ada4c8edd7e5-6a1f3a9475210dddf5af4f33",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-6a1f3a9475210dddf5af4f33.m3u8",
+            "gridKey": "6a1f3a9475210dddf5af4f33",
+            "group": [
+                "Sports"
+            ]
+        },
         "69f4f6c2647c1d14cc38677b": {
             "call_sign": null,
             "slug": "nfl-channel-3",
