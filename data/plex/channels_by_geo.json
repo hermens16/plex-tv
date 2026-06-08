@@ -1285,6 +1285,18 @@
             ],
             "tmsid": "115370"
         },
+        "639ba57d3f4612cc150a5723": {
+            "call_sign": null,
+            "slug": "pitufo-tv",
+            "name": "Pitufo TV",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",
+            "id": "646546f35db8ada4c8edd7e5-639ba57d3f4612cc150a5723",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-639ba57d3f4612cc150a5723.m3u8",
+            "gridKey": "639ba57d3f4612cc150a5723",
+            "group": [
+                "Classics"
+            ]
+        },
         "640205c68ecb41f2d89d5814": {
             "call_sign": "EDSSHOW",
             "slug": "the-ed-sullivan-show",
@@ -2580,18 +2592,6 @@
             "id": "646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064.m3u8",
             "gridKey": "65b1568052aa31b8f64da064",
-            "group": [
-                "En Espa\u00f1ol"
-            ]
-        },
-        "639ba57d3f4612cc150a5723": {
-            "call_sign": null,
-            "slug": "pitufo-tv",
-            "name": "Pitufo TV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",
-            "id": "646546f35db8ada4c8edd7e5-639ba57d3f4612cc150a5723",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-639ba57d3f4612cc150a5723.m3u8",
-            "gridKey": "639ba57d3f4612cc150a5723",
             "group": [
                 "En Espa\u00f1ol"
             ]
