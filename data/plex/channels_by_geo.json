@@ -1419,18 +1419,6 @@
                 "Adrenaline & Sci-Fi"
             ]
         },
-        "61d738b5a7b7c7f703418514": {
-            "call_sign": null,
-            "slug": "trailers-from-hell",
-            "name": "Trailers From Hell",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
-            "id": "646546f35db8ada4c8edd7e5-61d738b5a7b7c7f703418514",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-61d738b5a7b7c7f703418514.m3u8",
-            "gridKey": "61d738b5a7b7c7f703418514",
-            "group": [
-                "Adrenaline & Sci-Fi"
-            ]
-        },
         "68111e72e57481a3c2d16dce": {
             "call_sign": null,
             "slug": "mr-bean-live-action-2",
@@ -1650,6 +1638,18 @@
             "id": "646546f35db8ada4c8edd7e5-60db63d29ec966002c9ea6f0",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60db63d29ec966002c9ea6f0.m3u8",
             "gridKey": "60db63d29ec966002c9ea6f0",
+            "group": [
+                "Daytime TV & Games"
+            ]
+        },
+        "61d738b5a7b7c7f703418514": {
+            "call_sign": null,
+            "slug": "trailers-from-hell",
+            "name": "Trailers From Hell",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
+            "id": "646546f35db8ada4c8edd7e5-61d738b5a7b7c7f703418514",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-61d738b5a7b7c7f703418514.m3u8",
+            "gridKey": "61d738b5a7b7c7f703418514",
             "group": [
                 "Daytime TV & Games"
             ]
