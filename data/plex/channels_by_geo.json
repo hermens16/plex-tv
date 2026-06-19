@@ -1816,20 +1816,6 @@
             ],
             "tmsid": "122536"
         },
-        "62ab5aabbb869dd0df6a3487": {
-            "call_sign": null,
-            "slug": "ted",
-            "name": "TED",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png",
-            "id": "646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487.m3u8",
-            "gridKey": "62ab5aabbb869dd0df6a3487",
-            "group": [
-                "Explore"
-            ],
-            "tmsid": "124221",
-            "time_shift": "-5"
-        },
         "60a9d105d162b9002d05a60c": {
             "call_sign": null,
             "slug": "gousa-tv",
