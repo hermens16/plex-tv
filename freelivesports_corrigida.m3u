@@ -261,9 +261,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstri
 #EXTINF:-1 channel-id="freelivesports-690bd93eb99006859752b2ac" tvg-id="690bd93eb99006859752b2ac" tvg-chno="301" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bd76bda5-899f-4f9a-99a0-94739afddde2" group-title="ESPORTES",Bowling TV
 https://stream.ads.ottera.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6791791920266258e85e39a1" tvg-id="6791791920266258e85e39a1" tvg-chno="302" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/370dab72-9c75-4150-9fd5-59c7e9ae187f" group-title="ESPORTES",World Chase Tag
-https://onestudio.telos.indicue.com/stream.m3u8
-
 #EXTINF:-1 channel-id="freelivesports-6675be6a0485604f67e34186" tvg-id="6675be6a0485604f67e34186" tvg-chno="303" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e" group-title="ESPORTES",Strongman Champions League
 https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
 
