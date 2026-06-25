@@ -190,7 +190,7 @@ https://amg26268-amg26268c18-freelivesports-emea-10883.playouts.now.amagi.tv/ts-
 https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6791796ab9c17f9469346be6" tvg-id="6791796ab9c17f9469346be6" tvg-chno="224" group-title="Martial Arts;Sport;Wrestling" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f902298-97ad-401b-b076-c3b8405dfa29",Inside Arm Wrestling
-https://onestudio.telos.indicue.com/stream.m3u8
+https://freelivesports.b-cdn.net/ssai/37/master.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-688294b53938ead4c35959ad" tvg-id="688294b53938ead4c35959ad" tvg-chno="240" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/37de7fc3-174e-4113-bcda-4650d31d97de",Red Bull TV (UK / IE)
 https://badbd0085e4940cfa48fdbb1226e7cbc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORB-UK-EN-FAST-FREELIVESPORTS/932/freelivesports/hls/master/playlist.m3u8
@@ -223,7 +223,7 @@ https://horizonsports.b-cdn.net/horizonsports-global/playlist.m3u8
 https://amg26268-amg26268c16-freelivesports-emea-10881.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssextreme-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6793f38b28cc86e5b548fd1c" tvg-id="6793f38b28cc86e5b548fd1c" tvg-chno="251" group-title="BMX;MTB;Skiing;Snow Sports;Sport;Surfing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87",Adventure Zone Sports Network
-https://onestudio.telos.indicue.com/stream.m3u8
+https://freelivesports.b-cdn.net/ssai/31/master.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6838de3d25ff401b8d967f30" tvg-id="6838de3d25ff401b8d967f30" tvg-chno="252" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1ed754a5-dea8-40ae-ac65-a019d34c3cfe",Swerve Women's Sports
 https://linear-1013.frequency.stream/dist/freelivesports/1013/hls/master/playlist.m3u8
@@ -260,6 +260,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstri
 
 #EXTINF:-1 channel-id="freelivesports-690bd93eb99006859752b2ac" tvg-id="690bd93eb99006859752b2ac" tvg-chno="301" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bd76bda5-899f-4f9a-99a0-94739afddde2",Bowling TV
 https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="freelivesports-6791791920266258e85e39a1" tvg-id="6791791920266258e85e39a1" tvg-chno="302" group-title="BMX;MTB;Skiing;Snow Sports;Sport;Surfing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/370dab72-9c75-4150-9fd5-59c7e9ae187f",World Chase Tag
+https://freelivesports.b-cdn.net/ssai/42/master.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675be6a0485604f67e34186" tvg-id="6675be6a0485604f67e34186" tvg-chno="303" group-title="" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e",Strongman Champions League
 https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
