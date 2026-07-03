@@ -899,18 +899,6 @@
             ],
             "tmsid": "153411"
         },
-        "682dff1fdfc9c452b8f9842a": {
-            "call_sign": null,
-            "slug": "k-baseball-tv",
-            "name": "K-Baseball TV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-            "id": "646546f35db8ada4c8edd7e5-682dff1fdfc9c452b8f9842a",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-682dff1fdfc9c452b8f9842a.m3u8",
-            "gridKey": "682dff1fdfc9c452b8f9842a",
-            "group": [
-                "Sports"
-            ]
-        },
         "64ac687b4192b4e1bab96279": {
             "call_sign": null,
             "slug": "pokergo",
@@ -1589,18 +1577,6 @@
             "id": "646546f35db8ada4c8edd7e5-67d9a3d663c5439aeaf61305",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-67d9a3d663c5439aeaf61305.m3u8",
             "gridKey": "67d9a3d663c5439aeaf61305",
-            "group": [
-                "Daytime TV & Games"
-            ]
-        },
-        "69bb1f002028859eafc637e1": {
-            "call_sign": null,
-            "slug": "legacy",
-            "name": "Legacy",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-            "id": "646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1.m3u8",
-            "gridKey": "69bb1f002028859eafc637e1",
             "group": [
                 "Daytime TV & Games"
             ]
@@ -2863,6 +2839,18 @@
             "gridKey": "608b7095a09205002da4f295",
             "group": [
                 "En Espa\u00f1ol"
+            ]
+        },
+        "69bb1f002028859eafc637e1": {
+            "call_sign": null,
+            "slug": "legacy",
+            "name": "Legacy",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+            "id": "646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1.m3u8",
+            "gridKey": "69bb1f002028859eafc637e1",
+            "group": [
+                "Global"
             ]
         },
         "65d90ec99c7a6da8c3ce57eb": {
