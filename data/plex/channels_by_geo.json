@@ -2571,6 +2571,18 @@
                 "En Espa\u00f1ol"
             ]
         },
+        "6a3c2c8c14e447db7984cc3a": {
+            "call_sign": null,
+            "slug": "billboard-espanol-tv",
+            "name": "Billboard Espa\u00f1ol TV",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+            "id": "646546f35db8ada4c8edd7e5-6a3c2c8c14e447db7984cc3a",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-6a3c2c8c14e447db7984cc3a.m3u8",
+            "gridKey": "6a3c2c8c14e447db7984cc3a",
+            "group": [
+                "En Espa\u00f1ol"
+            ]
+        },
         "688cf47e324d7b6bc116198d": {
             "call_sign": null,
             "slug": "teleonce-america",
