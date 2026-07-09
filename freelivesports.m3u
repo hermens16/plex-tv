@@ -51,8 +51,8 @@ https://dcfe9c46.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 channel-id="freelivesports-69c09acff33f2bb295ae7d7d" tvg-id="69c09acff33f2bb295ae7d7d" tvg-chno="17" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/016763e9-54f0-43c9-9dde-bd25be33dcb4",Eurovision Sport
 https://amg01763-amg01763c2-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01763-amg01763c2-amgplt0201/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-67193b14ebe91798e1df746e" tvg-id="67193b14ebe91798e1df746e" tvg-chno="18" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1fd98f1d-6c51-4dd7-bcfa-708b89d93a0d",Premier League Lacrosse (Int')
-https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 channel-id="freelivesports-695d764ad33a113e45a09c0c" tvg-id="695d764ad33a113e45a09c0c" tvg-chno="18" group-title="Fishing;Hunting;Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d",Waypoint TV
+https://amg00381-amg00381c1-freelivesports-emea-11030.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00381-waypointcommunicationsfast-waypoint-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675bddf08ff831167bd410d" tvg-id="6675bddf08ff831167bd410d" tvg-chno="19" group-title="Poker;Sport" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",World Poker Tour
 https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
@@ -258,6 +258,9 @@ https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 channel-id="freelivesports-67193b10ca79f1c322692bee" tvg-id="67193b10ca79f1c322692bee" tvg-chno="267" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/460885ba-193c-4853-ad8b-47af7afb4dea",Premier League Lacrosse US
 https://stream.ads.ottera.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="freelivesports-67193b14ebe91798e1df746e" tvg-id="67193b14ebe91798e1df746e" tvg-chno="268" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1fd98f1d-6c51-4dd7-bcfa-708b89d93a0d",Premier League Lacrosse (Int')
+https://stream.ads.ottera.tv/playlist.m3u8
+
 #EXTINF:-1 channel-id="freelivesports-6675c0bb7f512eb266c46f0f" tvg-id="6675c0bb7f512eb266c46f0f" tvg-chno="269" group-title="" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/49f28445-430e-4e7e-bd41-797c55bec694",Lacrosse Channel
 https://e9f5db0f59d6470c81af59545905e4e5.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-LacrosseChannel/LSN_SCTE.m3u8
 
@@ -299,9 +302,6 @@ https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 channel-id="freelivesports-6675bcdd2916d97ce3c66e5b" tvg-id="6675bcdd2916d97ce3c66e5b" tvg-chno="341" group-title="" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3d30b61d-216f-4639-8b45-270b09911dc6",Wired2Fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-695d764ad33a113e45a09c0c" tvg-id="695d764ad33a113e45a09c0c" tvg-chno="342" group-title="Fishing;Hunting;Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d",Waypoint TV
-https://amg00381-amg00381c1-freelivesports-emea-11030.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00381-waypointcommunicationsfast-waypoint-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-6675c1ce0485604f67e34409" tvg-id="6675c1ce0485604f67e34409" tvg-chno="344" group-title="Fishing;Hunting;Sport" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",Hunt Fish TV
 https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
