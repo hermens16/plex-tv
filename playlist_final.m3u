@@ -339,58 +339,6 @@ https://amg26268-amg26268c12-freelivesports-emea-9477.playouts.now.amagi.tv/ts-e
 https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-rvtv-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 channel-id="freelivesports-695d80af6bc7cedaa26a0bcb" tvg-id="695d80af6bc7cedaa26a0bcb" tvg-chno="1009" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b81ff3ab-bd75-4ad0-850c-e61bd19be1e0" group-title="ESPORTES",POWERTUBE TV
 https://amg26268-amg26268c20-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c20-amgplt0201/playlist.m3u8
-#EXTINF:-1 channel-id="plex-the-ed-sullivan-show" tvg-id="640205c68ecb41f2d89d5814" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png" tvg-name="EDSSHOW" group-title="FILMES",THE ED SULLIVAN SHOW
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-640205c68ecb41f2d89d5814.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-lone-star" tvg-id="6196c9241d310bf925e02616" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" tvg-name="LS" group-title="FILMES",LONE STAR
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d310bf925e02616.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-death-valley-days" tvg-id="6674b68af04cf4bb9233c916" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="FILMES",DEATH VALLEY DAYS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6674b68af04cf4bb9233c916.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-dick-van-dyke" tvg-id="6449369eb3ff17382cae5801" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png" group-title="FILMES",DICK VAN DYKE
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6449369eb3ff17382cae5801.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-johnny-carson-tv" tvg-id="60d4edd6b2fdec002c141123" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="FILMES",JOHNNY CARSON TV
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60d4edd6b2fdec002c141123.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-maverick-black-cinema" tvg-id="5ef4e1b40d9ad000423c4430" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="FILMES",MAVERICK BLACK CINEMA
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5ef4e1b40d9ad000423c4430.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-the-carol-burnett-show" tvg-id="60d4edd6b2fdec002c141125" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="FILMES",THE CAROL BURNETT SHOW
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60d4edd6b2fdec002c141125.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-21-jump-street-2" tvg-id="66f6b947515e742745f5ca34" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="FILMES",21 JUMP STREET
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66f6b947515e742745f5ca34.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-cindie-tv-2" tvg-id="6685ad945ffde3f71a3977d5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f8a9788-c33c-4e91-a0c1-9bfeea4a1678/Cindie_TV_Horizontal_3840x2160-DarkRDX.png" group-title="FILMES",CINDIE TV
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6685ad945ffde3f71a3977d5.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-crime-beat-tv" tvg-id="68c98e7460586565cc56baab" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png" group-title="FILMES",CRIME BEAT TV
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68c98e7460586565cc56baab.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-documentary" tvg-id="614e286b2bac097ffd6fd6ab" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" group-title="FILMES",DOCUMENTARY+
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-614e286b2bac097ffd6fd6ab.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-grjngo-filmes-de-faroeste" tvg-id="63489bc190b96ef5e0eb327c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba5078a6-99eb-4e02-a473-bd6d0b02f34d/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="FILMES",GRJNGO - FILMES DE FAROESTE
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-hunter-2" tvg-id="66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="FILMES",HUNTER
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-moviesphere-4" tvg-id="6623c836ed4918437ed56ec2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/34c4ea86-690b-49dd-9056-7d2d02de645a/MovieSphere_Intl_Logo_Color_STACKRDX.png" group-title="FILMES",MOVIESPHERE
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-mytime-movie-network" tvg-id="644874236e1dc0bf5664a674" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd7d2c0f-5a20-4bff-a8ae-1b60b5b7f9b2/MT_PLEX_1500x1000_BRAZIL_WHITE_-_Sam_Abraham.png" group-title="FILMES",MYTIME MOVIE NETWORK
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644874236e1dc0bf5664a674.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-pitufo-tv" tvg-id="639ba57d3f4612cc150a5723" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="FILMES",PITUFO TV
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-639ba57d3f4612cc150a5723.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-rcm" tvg-id="66bfb17c144c201b8b61c10d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="FILMES",RCM
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66bfb17c144c201b8b61c10d.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-runtime-5" tvg-id="66998d1f7888888799f31d27" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a5f96ee6-4eeb-4fc2-86e2-0c5d71793125/Runtime_Brazil_Dark_Mode_Logordx.png" group-title="FILMES",RUNTIME
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66998d1f7888888799f31d27.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-runtime-comedia" tvg-id="6683f82dcd6f1d3940941147" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f77e0b33-fe99-46b5-ba3e-d1f90c0626d1/Runtime_BR_Comedia_Dark_Mode_Logordx.png" group-title="FILMES",RUNTIME COMÉDIA
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683f82dcd6f1d3940941147.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-runtime-crime" tvg-id="6683f650702b9db9f8177250" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53b50d84-3f88-4d5b-bee1-1190f89ca5d3/Runtime_BR_Crime_Dark_Mode_Logordx.png" group-title="FILMES",RUNTIME CRIME
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683f650702b9db9f8177250.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-runtime-familia" tvg-id="6683e1bccd6f1d3940941143" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37b0c538-6161-49a4-8990-401c105b6e6e/Runtime_BR_Familia_Dark_Mode_Logordx.png" group-title="FILMES",RUNTIME FAMÍLIA
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683e1bccd6f1d3940941143.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-runtime-romance" tvg-id="6683f50ccd6f1d3940941145" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db6157c9-6525-4bcd-998b-71d13ec82146/Runtime_BR_Romance_Dark_Mode_Logordx.png" group-title="FILMES",RUNTIME ROMANCE
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683f50ccd6f1d3940941145.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-spark-tv-luz-y-amor-2" tvg-id="6623c114ed4918437ed56ebc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b81e53f3-70c7-40d2-872a-59b27adb750b/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="FILMES",SPARK TV LUZ Y AMOR
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c114ed4918437ed56ebc.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-jail" tvg-id="6448ba1baf92c31f4a190c27" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="DOCUMENTÁRIOS",JAIL
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6448ba1baf92c31f4a190c27.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-crime-e-investigacao" tvg-id="66fd4baab319e182229203b4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab9e494a-04a7-41ad-a223-eed39394ba5a/crime_investigacao_white_logo_-_Kam_JeyRDX.png" group-title="DOCUMENTÁRIOS",CRIME E INVESTIGAÇÃO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-filmrise-crimenes-verdaderos-2" tvg-id="65ec577c39fd1025c2acd277" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f31fb0-3481-4e89-877a-3d2f0bb80215/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png" group-title="DOCUMENTÁRIOS",FILMRISE CRIMENES VERDADEROS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65ec577c39fd1025c2acd277.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-123go" tvg-id="63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="INFANTIL",123GO!
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-ninja-kidz-tv" tvg-id="627ec46a92d8e6a705784bd1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png" group-title="INFANTIL",NINJA KIDZ TV
@@ -507,8 +455,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6245cd154f27
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65b16e7b115f5ad5450cfdac.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-newsworld" tvg-id="66bfb2e6144c201b8b61c10f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="NOTÍCIAS",NEWSWORLD
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66bfb2e6144c201b8b61c10f.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-always-funny" tvg-id="5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="VARIEDADES",ALWAYS FUNNY
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5ef11486d33ab9004048a1cd.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-autopista-al-cielo" tvg-id="6449369eb3ff17382cae5811" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" group-title="VARIEDADES",AUTOPISTA AL CIELO
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6449369eb3ff17382cae5811.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-azteca-internacional" tvg-id="646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="VARIEDADES",AZTECA INTERNACIONAL
@@ -525,14 +471,10 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6469502df733
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64694d52f73356567a64ce8c.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-mi-casa" tvg-id="666e1c83d91d13cb4c8cbb71" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="VARIEDADES",MI CASA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e1c83d91d13cb4c8cbb71.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-mythical-24-7" tvg-id="650b5bb3f4b2d9579946a500" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="VARIEDADES",MYTHICAL 24/7
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-650b5bb3f4b2d9579946a500.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-naturaleza" tvg-id="666e2178d91d13cb4c8cbb75" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png" group-title="VARIEDADES",NATURALEZA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e2178d91d13cb4c8cbb75.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-nosey-escandalos" tvg-id="6154a863e3e4d9577f96b31a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="VARIEDADES",NOSEY ESCÁNDALOS
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6154a863e3e4d9577f96b31a.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-operation-repo" tvg-id="6578e7b5eef129f30fb38df7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png" group-title="VARIEDADES",OPERATION REPO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6578e7b5eef129f30fb38df7.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-todo-cine" tvg-id="644c446d7472b186783f359e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="VARIEDADES",TODO CINE
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644c446d7472b186783f359e.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-todo-crimen" tvg-id="666e236ace73ed6023b55a17" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png" group-title="VARIEDADES",TODO CRIMEN
@@ -541,8 +483,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e236ace73
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69d6d88b1790acff6189dea5.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-billboard-espanol-tv" tvg-id="6a3c2c8c14e447db7984cc3a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png" group-title="VARIEDADES",BILLBOARD ESPAÑOL TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a3c2c8c14e447db7984cc3a.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-bondi-rescue" tvg-id="69ae4f38e657bab5f7a9b7ec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png" group-title="VARIEDADES",BONDI RESCUE
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69ae4f38e657bab5f7a9b7ec.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-c4-en-alerta" tvg-id="65b1568052aa31b8f64da064" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="VARIEDADES",C4 EN ALERTA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-canela-tv-clasicos" tvg-id="64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png" group-title="VARIEDADES",CANELA.TV CLÁSICOS
@@ -553,26 +493,14 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67db0a3892cb
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63f0ca427b78030ed9990309.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-cops-en-espanol" tvg-id="6477b95b7ba9c0d593859bfc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="VARIEDADES",COPS EN ESPAÑOL
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6477b95b7ba9c0d593859bfc.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-creator-television" tvg-id="67884bd6d37f2fd48d6220db" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="VARIEDADES",CREATOR TELEVISION
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-delito" tvg-id="69a516217c245b3390e8a4d2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png" group-title="VARIEDADES",DELITO
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-dude-perfect" tvg-id="68d7f9b53b1f329cea126993" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png" group-title="VARIEDADES",DUDE PERFECT
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68d7f9b53b1f329cea126993.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-el-conflicto-tv-2" tvg-id="621674f168c966be92737ce6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="VARIEDADES",EL CONFLICTO TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-621674f168c966be92737ce6.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-failarmy-2" tvg-id="5f170d62b898490041b4936e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png" group-title="VARIEDADES",FAILARMY
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f170d62b898490041b4936e.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-freetv-drama-2" tvg-id="608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="VARIEDADES",FREETV DRAMA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-grjngo-peliculas-del-oeste" tvg-id="63489eff90b96ef5e0eb3282" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="VARIEDADES",GRJNGO - PELÍCULAS DEL OESTE
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-hardcore-pawn-2" tvg-id="68111f57e57481a3c2d16dd0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f70be38-a6bf-45af-9b7d-ccd47e9dcdad/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="VARIEDADES",HARDCORE PAWN
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111f57e57481a3c2d16dd0.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-humor-mill" tvg-id="5fd115b7b7ef8d002dcf1814" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="VARIEDADES",HUMOR MILL
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5fd115b7b7ef8d002dcf1814.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-ice-pilots-nwt" tvg-id="666e1820ce73ed6023b55a11" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="VARIEDADES",ICE PILOTS NWT
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e1820ce73ed6023b55a11.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-ice-pilots-nwt-en-espanol" tvg-id="666e192cd91d13cb4c8cbb6b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png" group-title="VARIEDADES",ICE PILOTS NWT (EN ESPAÑOL)
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e192cd91d13cb4c8cbb6b.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-ideas-en-5-minutos" tvg-id="64a355697d24564fba37bab8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="VARIEDADES",IDEAS EN 5 MINUTOS
@@ -581,26 +509,16 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64a355697d24
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6707d20ab87b5cf57ac33c95.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-itv-deportes" tvg-id="688d3402a6fe30698ab42007" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="VARIEDADES",ITV DEPORTES
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-688d3402a6fe30698ab42007.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-just-for-laughs-gags" tvg-id="64704954e536e0faaf10be9f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="VARIEDADES",JUST FOR LAUGHS GAGS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64704954e536e0faaf10be9f.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-la-fiebre-del-jade" tvg-id="666e1af3d91d13cb4c8cbb6d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png" group-title="VARIEDADES",LA FIEBRE DEL JADE
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-666e1af3d91d13cb4c8cbb6d.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-lucha-plus" tvg-id="67a1a8ef2358ef4dd5c3018e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="VARIEDADES",LUCHA PLUS
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67a1a8ef2358ef4dd5c3018e.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-misterios-sin-resolver" tvg-id="64d79408e5f67b0fab47ff24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png" group-title="VARIEDADES",MISTERIOS SIN RESOLVER
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64d79408e5f67b0fab47ff24.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-monstruos-de-rio" tvg-id="68dcb497250f81dfec9091d7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e935eb3-3c68-41ee-8e2e-5b8c37a1fbf1/023_FAST-RM-latam_LOGO_1500x100-DARK-Plex.png" group-title="VARIEDADES",MONSTRUOS DE RIO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68dcb497250f81dfec9091d7.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-mr-bean-3" tvg-id="66a9367b99bb0f3a78c0a32b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fff519bb-d875-445f-8b63-9739e96f5762/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="VARIEDADES",MR. BEAN
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-mr-bean-live-action-2" tvg-id="68111e72e57481a3c2d16dce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f9de9d1-9ffa-484e-9cd3-700e5c554770/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="VARIEDADES",MR. BEAN LIVE ACTION
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68111e72e57481a3c2d16dce.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-novelisima" tvg-id="64d4e82ac5d4668c9cb7b5df" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="VARIEDADES",NOVELISIMA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-pelimex" tvg-id="67db3546d66f778a752f7eaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png" group-title="VARIEDADES",PELIMEX
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-67db3546d66f778a752f7eaa.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
-#EXTINF:-1 channel-id="plex-platos-sucios" tvg-id="68645c1f1a2f321847ec0391" tvg-logo="https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png" group-title="VARIEDADES",PLATOS SUCIOS
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-68645c1f1a2f321847ec0391.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-teleonce-america" tvg-id="688cf47e324d7b6bc116198d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="VARIEDADES",TELEONCE AMERICA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-688cf47e324d7b6bc116198d.m3u8?X-Plex-Token=oXUXbj1AksBYzxDBG64q
 #EXTINF:-1 channel-id="plex-todo-drama" tvg-id="685f195f6c220c4e9e333a04" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png" group-title="VARIEDADES",TODO DRAMA
