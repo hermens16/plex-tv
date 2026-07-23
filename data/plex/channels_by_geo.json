@@ -2521,19 +2521,6 @@
             ],
             "tmsid": "148558"
         },
-        "64e6df6e4a5e9b4cedc6d529": {
-            "call_sign": null,
-            "slug": "canela-tv-narco-drama",
-            "name": "Canela.TV Narco-Drama",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png",
-            "id": "646546f35db8ada4c8edd7e5-64e6df6e4a5e9b4cedc6d529",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-64e6df6e4a5e9b4cedc6d529.m3u8",
-            "gridKey": "64e6df6e4a5e9b4cedc6d529",
-            "group": [
-                "En Espa\u00f1ol"
-            ],
-            "tmsid": "129781"
-        },
         "65623e0eb7d737841f30a4ff": {
             "call_sign": null,
             "slug": "cheaters-en-espanol",
