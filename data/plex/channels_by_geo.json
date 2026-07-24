@@ -937,6 +937,18 @@
                 "Sports"
             ]
         },
+        "6a4af78195c72f33f18ad29f": {
+            "call_sign": null,
+            "slug": "azteca-deportes-network",
+            "name": "Azteca Deportes Network",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png",
+            "id": "646546f35db8ada4c8edd7e5-6a4af78195c72f33f18ad29f",
+            "key": "/library/parts/646546f35db8ada4c8edd7e5-6a4af78195c72f33f18ad29f.m3u8",
+            "gridKey": "6a4af78195c72f33f18ad29f",
+            "group": [
+                "Sports"
+            ]
+        },
         "5f90ebc726350a002d40b136": {
             "call_sign": null,
             "slug": "racer-international",
