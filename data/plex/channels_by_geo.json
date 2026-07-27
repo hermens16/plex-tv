@@ -1806,9 +1806,9 @@
         },
         "60a9d105d162b9002d05a60c": {
             "call_sign": null,
-            "slug": "gousa-tv",
-            "name": "GoUSA TV",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+            "slug": "journy-2",
+            "name": "Journy",
+            "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
             "id": "646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c",
             "key": "/library/parts/646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c.m3u8",
             "gridKey": "60a9d105d162b9002d05a60c",
