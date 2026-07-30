@@ -2104,19 +2104,6 @@
                 "Food, Home & Culture"
             ]
         },
-        "5efe1de6e0b3f5003f5d9f82": {
-            "call_sign": null,
-            "slug": "the-boat-show",
-            "name": "The Boat Show",
-            "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-            "id": "646546f35db8ada4c8edd7e5-5efe1de6e0b3f5003f5d9f82",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-5efe1de6e0b3f5003f5d9f82.m3u8",
-            "gridKey": "5efe1de6e0b3f5003f5d9f82",
-            "group": [
-                "Food, Home & Culture"
-            ],
-            "tmsid": "157506"
-        },
         "5eea605474085f0040ddc76d": {
             "call_sign": null,
             "slug": "glewed-tv",
@@ -2949,18 +2936,6 @@
             "gridKey": "64b1e1217d4037206787f384",
             "group": [
                 "Global"
-            ]
-        },
-        "6196c8c01d310bf925e02615": {
-            "call_sign": null,
-            "slug": "music-legends",
-            "name": "Music Legends",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-            "id": "646546f35db8ada4c8edd7e5-6196c8c01d310bf925e02615",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-6196c8c01d310bf925e02615.m3u8",
-            "gridKey": "6196c8c01d310bf925e02615",
-            "group": [
-                "Music"
             ]
         },
         "60b0f65c0c8ffb002c821a75": {
