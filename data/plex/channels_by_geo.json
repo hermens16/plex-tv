@@ -1518,18 +1518,6 @@
             ],
             "tmsid": "134109"
         },
-        "5fd115b7b7ef8d002dcf1814": {
-            "call_sign": null,
-            "slug": "humor-mill",
-            "name": "Humor Mill",
-            "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-            "id": "646546f35db8ada4c8edd7e5-5fd115b7b7ef8d002dcf1814",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-5fd115b7b7ef8d002dcf1814.m3u8",
-            "gridKey": "5fd115b7b7ef8d002dcf1814",
-            "group": [
-                "Comedy"
-            ]
-        },
         "68d7f9b53b1f329cea126993": {
             "call_sign": null,
             "slug": "dude-perfect",
@@ -2017,18 +2005,6 @@
                 "Food, Home & Culture"
             ],
             "tmsid": "132607"
-        },
-        "66ea0e029502c5778b828d45": {
-            "call_sign": null,
-            "slug": "drool",
-            "name": "Drool",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-            "id": "646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45",
-            "key": "/library/parts/646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45.m3u8",
-            "gridKey": "66ea0e029502c5778b828d45",
-            "group": [
-                "Food, Home & Culture"
-            ]
         },
         "5f0641d3e8ffda004033b16e": {
             "call_sign": null,
