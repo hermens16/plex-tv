@@ -339,16 +339,13 @@ https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 channel-id="freelivesports-682b8c2cd25141aebc307eb2" tvg-id="682b8c2cd25141aebc307eb2" tvg-chno="367" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f1057071-b0a0-40fe-a6d7-4ef0deaeff27",Danger TV
 https://7a3dc993.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0RhbmdlclRWX0hMUw/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-673b785252254eb082e18520" tvg-id="673b785252254eb082e18520" tvg-chno="368" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3153e0bf-1b87-470c-8959-b07a6676c152",The Boat Show
-https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8
-
-#EXTINF:-1 channel-id="freelivesports-69faab93535be754e3bcad49" tvg-id="69faab93535be754e3bcad49" tvg-chno="369" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f6531baa-683a-4157-a880-750b0081d788",That Peter Crouch Podcast
+#EXTINF:-1 channel-id="freelivesports-69faab93535be754e3bcad49" tvg-id="69faab93535be754e3bcad49" tvg-chno="368" group-title="Sport" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f6531baa-683a-4157-a880-750b0081d788",That Peter Crouch Podcast
 https://stream.ads.ottera.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-6838daeb7711e8dcf95d34c8" tvg-id="6838daeb7711e8dcf95d34c8" tvg-chno="370" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6bfb0b89-48e5-46fe-b4b3-ec6fef24e1fc",American Stories Network
+#EXTINF:-1 channel-id="freelivesports-6838daeb7711e8dcf95d34c8" tvg-id="6838daeb7711e8dcf95d34c8" tvg-chno="369" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6bfb0b89-48e5-46fe-b4b3-ec6fef24e1fc",American Stories Network
 https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="freelivesports-68a3913636cf1d83afe35072" tvg-id="68a3913636cf1d83afe35072" tvg-chno="371" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",eClutch Access
+#EXTINF:-1 channel-id="freelivesports-68a3913636cf1d83afe35072" tvg-id="68a3913636cf1d83afe35072" tvg-chno="370" group-title="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",eClutch Access
 https://hlspackager.akamaized.net/live/DB/ECLUTCH_ACCESS/SCTE_HLS/ECLUTCH_ACCESS.m3u8
 
 #EXTINF:-1 channel-id="freelivesports-672a67138e0fe64b11195701" tvg-id="672a67138e0fe64b11195701" tvg-chno="372" group-title="Nature" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c",Escape TV
